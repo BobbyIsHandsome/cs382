@@ -1,0 +1,6365 @@
+导 B-inform-操作
+航 I-inform-操作
+到 O
+哈 B-inform-终点名称
+尔 I-inform-终点名称
+滨 I-inform-终点名称
+市 I-inform-终点名称
+
+我 O
+要 O
+去 O
+崇 B-inform-终点名称
+文 I-inform-终点名称
+名 I-inform-终点名称
+都 I-inform-终点名称
+
+我 O
+要 O
+去 O
+洛 B-inform-终点名称
+兰 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+我 O
+要 O
+到 O
+永 B-inform-终点名称
+安 I-inform-终点名称
+路 I-inform-终点名称
+四 I-inform-终点名称
+百 I-inform-终点名称
+五 I-inform-终点名称
+十 I-inform-终点名称
+一 I-inform-终点名称
+号 I-inform-终点名称
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+我 O
+要 O
+去 O
+香 B-inform-终点名称
+江 I-inform-终点名称
+汽 I-inform-终点名称
+配 I-inform-终点名称
+城 I-inform-终点名称
+
+去 O
+玉 B-inform-终点名称
+田 I-inform-终点名称
+供 I-inform-终点名称
+销 I-inform-终点名称
+大 I-inform-终点名称
+厦 I-inform-终点名称
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+要 O
+不 O
+要 O
+门 O
+票 O
+取 O
+消 O
+导 O
+航 O
+
+导 O
+航 O
+
+合 B-inform-poi名称
+肥 I-inform-poi名称
+市 I-inform-poi名称
+瑶 I-inform-poi名称
+海 I-inform-poi名称
+区 I-inform-poi名称
+大 I-inform-poi名称
+禹 I-inform-poi名称
+路 I-inform-poi名称
+与 I-inform-poi名称
+淮 I-inform-poi名称
+海 I-inform-poi名称
+大 I-inform-poi名称
+道 I-inform-poi名称
+交 I-inform-poi名称
+叉 I-inform-poi名称
+口 I-inform-poi名称
+东 I-inform-poi名称
+南 I-inform-poi名称
+侧 I-inform-poi名称
+
+清 B-inform-poi名称
+泉 I-inform-poi名称
+锅 I-inform-poi名称
+炉 I-inform-poi名称
+
+请 O
+全 O
+国 O
+路 O
+
+我 O
+要 O
+去 O
+新 B-inform-终点名称
+泉 I-inform-终点名称
+锅 I-inform-终点名称
+炉 I-inform-终点名称
+
+请 O
+全 O
+国 O
+路 O
+
+玉 B-inform-poi名称
+溪 I-inform-poi名称
+市 I-inform-poi名称
+澄 I-inform-poi名称
+江 I-inform-poi名称
+县 I-inform-poi名称
+人 I-inform-poi名称
+民 I-inform-poi名称
+法 I-inform-poi名称
+院 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+一 O
+下 O
+
+导 B-inform-操作
+航 I-inform-操作
+一 O
+下 O
+永 B-inform-终点名称
+济 I-inform-终点名称
+市 I-inform-终点名称
+虞 I-inform-终点名称
+乡 I-inform-终点名称
+隔 I-inform-终点名称
+离 I-inform-终点名称
+戒 I-inform-终点名称
+毒 I-inform-终点名称
+所 I-inform-终点名称
+
+请 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+冷 B-inform-终点名称
+水 I-inform-终点名称
+江 I-inform-终点名称
+市 I-inform-终点名称
+物 I-inform-终点名称
+流 I-inform-终点名称
+中 I-inform-终点名称
+心 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+微 O
+山 O
+县 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+伊 B-inform-终点名称
+春 I-inform-终点名称
+市 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+苏 O
+宁 O
+关 O
+站 O
+
+到 O
+合 B-inform-终点名称
+肥 I-inform-终点名称
+北 I-inform-终点名称
+二 I-inform-终点名称
+环 I-inform-终点名称
+国 I-inform-终点名称
+际 I-inform-终点名称
+汽 I-inform-终点名称
+车 I-inform-终点名称
+城 I-inform-终点名称
+
+我 O
+要 O
+去 O
+大 B-inform-终点名称
+润 I-inform-终点名称
+发 I-inform-终点名称
+
+西 B-inform-poi名称
+华 I-inform-poi名称
+县 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+回 O
+家 B-inform-终点名称
+
+我 O
+要 O
+去 O
+郑 B-inform-终点名称
+州 I-inform-终点名称
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+导 B-inform-操作
+航 I-inform-操作
+
+利 B-inform-poi名称
+港 I-inform-poi名称
+银 I-inform-poi名称
+河 I-inform-poi名称
+新 I-inform-poi名称
+城 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+晋 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+恒 I-inform-终点名称
+源 I-inform-终点名称
+锌 I-inform-终点名称
+业 I-inform-终点名称
+
+确 O
+定 O
+
+我 O
+要 O
+到 O
+打 O
+古 O
+镇 O
+阳 O
+朔 O
+村 O
+
+我 O
+要 O
+去 O
+航 B-inform-终点名称
+洋 I-inform-终点名称
+国 I-inform-终点名称
+际 I-inform-终点名称
+
+带 O
+我 O
+回 O
+家 B-inform-终点名称
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+到 O
+杨 B-inform-终点名称
+林 I-inform-终点名称
+职 I-inform-终点名称
+教 I-inform-终点名称
+园 I-inform-终点名称
+区 I-inform-终点名称
+
+去 O
+蒋 O
+钰 O
+华 O
+学 B-inform-终点名称
+校 I-inform-终点名称
+
+你 O
+好 O
+去 O
+市 B-inform-终点名称
+中 I-inform-终点名称
+区 I-inform-终点名称
+祁 I-inform-终点名称
+家 I-inform-终点名称
+庄 I-inform-终点名称
+
+去 O
+潍 B-inform-终点名称
+坊 I-inform-终点名称
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+山 B-inform-终点名称
+西 I-inform-终点名称
+省 I-inform-终点名称
+阳 I-inform-终点名称
+泉 I-inform-终点名称
+市 I-inform-终点名称
+平 I-inform-终点名称
+定 I-inform-终点名称
+县 I-inform-终点名称
+石 I-inform-终点名称
+门 I-inform-终点名称
+口 I-inform-终点名称
+乡 I-inform-终点名称
+南 I-inform-终点名称
+坪 I-inform-终点名称
+村 I-inform-终点名称
+
+加 B-inform-poi名称
+油 I-inform-poi名称
+站 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+五 B-inform-终点名称
+五 I-inform-终点名称
+星 I-inform-终点名称
+镇 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+西 B-inform-终点名称
+宁 I-inform-终点名称
+市 I-inform-终点名称
+城 I-inform-终点名称
+南 I-inform-终点名称
+总 O
+站 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+葫 B-inform-终点名称
+芦 I-inform-终点名称
+岛 I-inform-终点名称
+
+想 O
+加 O
+大 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+厚 B-inform-终点名称
+街 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+来 O
+一 O
+首 O
+韩 O
+红 O
+的 O
+天 O
+亮 O
+了 O
+
+导 B-inform-操作
+航 I-inform-操作
+重 B-inform-终点名称
+庆 I-inform-终点名称
+师 I-inform-终点名称
+范 I-inform-终点名称
+大 I-inform-终点名称
+学 I-inform-终点名称
+图 I-inform-终点名称
+书 I-inform-终点名称
+馆 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+十 B-inform-终点名称
+二 I-inform-终点名称
+师 I-inform-终点名称
+五 I-inform-终点名称
+一 I-inform-终点名称
+农 I-inform-终点名称
+场 I-inform-终点名称
+
+来 O
+一 O
+个 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+东 B-inform-终点名称
+湖 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+东 I-inform-终点名称
+门 I-inform-终点名称
+
+还 O
+是 O
+度 O
+假 O
+他 O
+吗 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+天 B-inform-poi名称
+安 I-inform-poi名称
+数 I-inform-poi名称
+码 I-inform-poi名称
+城 I-inform-poi名称
+
+放 O
+个 O
+
+第 B-inform-序列号
+三 I-inform-序列号
+个 I-inform-序列号
+
+我 O
+要 O
+去 O
+青 B-inform-终点名称
+岛 I-inform-终点名称
+即 I-inform-终点名称
+墨 I-inform-终点名称
+
+放 O
+市 O
+场 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+马 B-inform-终点名称
+驹 I-inform-终点名称
+桥 I-inform-终点名称
+镇 I-inform-终点名称
+后 I-inform-终点名称
+银 I-inform-终点名称
+子 I-inform-终点名称
+村 I-inform-终点名称
+
+我 O
+要 O
+去 O
+苍 B-inform-终点名称
+玉 I-inform-终点名称
+洞 I-inform-终点名称
+家 I-inform-终点名称
+园 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+我 O
+去 O
+海 B-inform-终点名称
+原 I-inform-终点名称
+县 I-inform-终点名称
+
+到 O
+江 B-inform-终点名称
+西 I-inform-终点名称
+省 I-inform-终点名称
+赣 I-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+人 I-inform-终点名称
+民 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+上 B-inform-终点名称
+海 I-inform-终点名称
+虹 I-inform-终点名称
+桥 I-inform-终点名称
+高 I-inform-终点名称
+铁 I-inform-终点名称
+站 I-inform-终点名称
+
+去 O
+儋 B-inform-终点名称
+州 I-inform-终点名称
+
+到 O
+上 B-inform-终点名称
+犹 I-inform-终点名称
+县 I-inform-终点名称
+城 I-inform-终点名称
+
+导 O
+航 O
+玲 O
+超 O
+市 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+也 O
+民 O
+村 O
+
+嗯 O
+灞 B-inform-poi名称
+桥 I-inform-poi名称
+世 I-inform-poi名称
+博 I-inform-poi名称
+大 I-inform-poi名称
+道 I-inform-poi名称
+誓 I-inform-poi名称
+言 I-inform-poi名称
+大 I-inform-poi名称
+公 I-inform-poi名称
+馆 I-inform-poi名称
+
+是 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+二 B-inform-终点名称
+桥 I-inform-终点名称
+收 I-inform-终点名称
+费 I-inform-终点名称
+站 I-inform-终点名称
+
+给 O
+我 O
+找 B-inform-操作
+一 O
+下 O
+金 B-inform-poi名称
+阳 I-inform-poi名称
+大 I-inform-poi名称
+街 I-inform-poi名称
+
+回 O
+家 B-inform-终点名称
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+黄 O
+泥 O
+榜 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+马 B-inform-终点名称
+记 I-inform-终点名称
+维 I-inform-终点名称
+修 I-inform-终点名称
+店 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+文 B-inform-终点名称
+艺 I-inform-终点名称
+南 I-inform-终点名称
+路 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+导 O
+航 O
+去 O
+广 B-inform-终点名称
+州 I-inform-终点名称
+越 I-inform-终点名称
+秀 I-inform-终点名称
+区 I-inform-终点名称
+儿 I-inform-终点名称
+童 I-inform-终点名称
+医 I-inform-终点名称
+院 I-inform-终点名称
+
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+洗 B-inform-终点名称
+马 I-inform-终点名称
+村 I-inform-终点名称
+
+确 O
+定 O
+
+去 O
+勃 B-inform-终点名称
+利 I-inform-终点名称
+城 I-inform-终点名称
+路 I-inform-终点名称
+第 I-inform-终点名称
+一 I-inform-终点名称
+中 I-inform-终点名称
+医 I-inform-终点名称
+院 I-inform-终点名称
+
+我 O
+要 O
+去 O
+光 B-inform-终点名称
+明 I-inform-终点名称
+路 I-inform-终点名称
+三 I-inform-终点名称
+十 I-inform-终点名称
+五 I-inform-终点名称
+号 I-inform-终点名称
+楼 I-inform-终点名称
+
+去 O
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+我 O
+要 O
+去 O
+东 B-inform-终点名称
+升 I-inform-终点名称
+大 I-inform-终点名称
+厦 I-inform-终点名称
+
+华 B-inform-poi名称
+耐 I-inform-poi名称
+家 I-inform-poi名称
+居 I-inform-poi名称
+
+我 O
+要 O
+去 O
+华 B-inform-终点名称
+耐 I-inform-终点名称
+家 I-inform-终点名称
+居 I-inform-终点名称
+
+去 O
+沭 B-inform-终点名称
+阳 I-inform-终点名称
+县 I-inform-终点名称
+中 I-inform-终点名称
+华 I-inform-终点名称
+小 I-inform-终点名称
+区 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+去 O
+电 O
+来 O
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+我 O
+要 O
+导 B-inform-操作
+航 I-inform-操作
+
+广 B-inform-poi名称
+州 I-inform-poi名称
+花 I-inform-poi名称
+园 I-inform-poi名称
+酒 I-inform-poi名称
+店 I-inform-poi名称
+
+我 O
+要 O
+去 O
+西 B-inform-终点名称
+藏 I-inform-终点名称
+
+沈 O
+阳 O
+沈 O
+河 O
+去 O
+渭 O
+南 O
+市 O
+东 O
+宝 O
+路 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+长 B-inform-终点名称
+水 I-inform-终点名称
+机 I-inform-终点名称
+场 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+华 B-inform-终点名称
+夏 I-inform-终点名称
+驾 I-inform-终点名称
+校 I-inform-终点名称
+
+现 O
+在 O
+
+最 O
+近 O
+的 O
+六 O
+公 O
+里 O
+
+给 O
+
+发 O
+城 O
+镇 O
+上 O
+车 O
+购 O
+车 O
+
+不 O
+是 O
+观 O
+
+第 O
+二 O
+萝 O
+卜 O
+
+我 O
+找 B-inform-操作
+一 O
+下 O
+附 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+加 B-inform-poi目标
+油 I-inform-poi目标
+站 I-inform-poi目标
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+扬 B-inform-终点名称
+州 I-inform-终点名称
+北 I-inform-终点名称
+站 I-inform-终点名称
+
+深 O
+州 O
+导 B-inform-操作
+航 I-inform-操作
+
+到 O
+新 B-inform-终点名称
+城 I-inform-终点名称
+十 I-inform-终点名称
+二 I-inform-终点名称
+区 I-inform-终点名称
+
+新 B-inform-poi名称
+城 I-inform-poi名称
+十 I-inform-poi名称
+二 I-inform-poi名称
+区 I-inform-poi名称
+
+新 B-inform-poi名称
+城 I-inform-poi名称
+十 I-inform-poi名称
+二 I-inform-poi名称
+区 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+北 B-inform-终点名称
+京 I-inform-终点名称
+市 O
+
+你 O
+知 O
+道 O
+高 B-inform-终点名称
+安 I-inform-终点名称
+的 O
+去 O
+路 O
+吗 O
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+前 B-inform-终点名称
+仓 I-inform-终点名称
+镇 I-inform-终点名称
+文 I-inform-终点名称
+教 I-inform-终点名称
+南 I-inform-终点名称
+路 I-inform-终点名称
+七 I-inform-终点名称
+十 I-inform-终点名称
+五 I-inform-终点名称
+号 I-inform-终点名称
+
+我 O
+去 O
+灯 B-inform-终点名称
+明 I-inform-终点名称
+寺 I-inform-终点名称
+到 O
+达 O
+公 O
+司 O
+吧 O
+
+我 O
+要 O
+去 O
+泉 B-inform-终点名称
+胜 I-inform-终点名称
+物 I-inform-终点名称
+流 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+退 B-inform-操作
+出 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+我 O
+要 O
+去 O
+云 B-inform-终点名称
+南 I-inform-终点名称
+省 I-inform-终点名称
+泸 I-inform-终点名称
+西 I-inform-终点名称
+县 I-inform-终点名称
+旧 I-inform-终点名称
+城 I-inform-终点名称
+镇 I-inform-终点名称
+大 I-inform-终点名称
+白 I-inform-终点名称
+鹭 I-inform-终点名称
+村 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+导 O
+航 O
+到 O
+金 O
+洲 O
+路 O
+耕 O
+南 O
+三 O
+路 O
+交 O
+叉 O
+口 O
+
+n O
+u O
+l O
+l O
+
+到 O
+温 B-inform-终点名称
+江 I-inform-终点名称
+区 I-inform-终点名称
+幸 I-inform-终点名称
+福 I-inform-终点名称
+田 I-inform-终点名称
+园 I-inform-终点名称
+
+帮 O
+你 O
+给 O
+我 O
+倒 O
+一 O
+下 O
+帮 O
+我 O
+给 O
+我 O
+导 B-inform-操作
+一 O
+下 O
+河 B-inform-终点名称
+北 I-inform-终点名称
+省 I-inform-终点名称
+黄 I-inform-终点名称
+骅 I-inform-终点名称
+市 I-inform-终点名称
+市 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+到 O
+平 B-inform-终点名称
+阳 I-inform-终点名称
+县 I-inform-终点名称
+
+关 B-inform-poi名称
+坪 I-inform-poi名称
+
+去 O
+赣 B-inform-终点名称
+州 I-inform-终点名称
+西 I-inform-终点名称
+收 I-inform-终点名称
+费 I-inform-终点名称
+站 I-inform-终点名称
+
+我 O
+要 O
+去 O
+文 O
+地 O
+东 O
+学 O
+
+我 O
+要 O
+吃 B-inform-poi名称
+饭 I-inform-poi名称
+
+你 O
+好 O
+远 O
+界 O
+
+今 O
+天 O
+北 O
+京 O
+什 O
+么 O
+天 O
+气 O
+
+南 B-inform-poi名称
+光 I-inform-poi名称
+支 I-inform-poi名称
+行 I-inform-poi名称
+
+我 O
+要 O
+去 O
+到 O
+武 O
+昌 O
+
+我 O
+要 O
+去 O
+老 B-inform-终点名称
+虎 I-inform-终点名称
+城 I-inform-终点名称
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+我 O
+要 O
+去 O
+马 B-inform-终点名称
+村 I-inform-终点名称
+立 I-inform-终点名称
+交 I-inform-终点名称
+桥 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+皇 B-inform-终点名称
+庭 I-inform-终点名称
+
+到 O
+高 B-inform-终点名称
+新 I-inform-终点名称
+区 I-inform-终点名称
+公 I-inform-终点名称
+积 I-inform-终点名称
+金 I-inform-终点名称
+管 I-inform-终点名称
+理 I-inform-终点名称
+中 I-inform-终点名称
+心 I-inform-终点名称
+
+我 O
+要 O
+去 O
+章 O
+丘 O
+区 O
+到 O
+涨 O
+镇 O
+十 O
+八 O
+盘 O
+村 O
+
+给 O
+我 O
+找 O
+
+我 O
+要 O
+去 O
+挂 O
+
+我 O
+要 O
+去 O
+章 O
+丘 O
+音 O
+乐 O
+杜 O
+庄 O
+镇 O
+十 O
+八 O
+盘 O
+村 O
+
+n O
+u O
+l O
+l O
+
+n O
+u O
+l O
+l O
+
+带 O
+好 O
+
+去 O
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+小 O
+安 O
+请 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+高 O
+源 O
+龙 O
+
+埃 O
+乐 O
+从 O
+国 O
+税 O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+一 B-inform-poi名称
+中 I-inform-poi名称
+学 I-inform-poi名称
+
+到 O
+附 B-inform-请求类型
+近 I-inform-请求类型
+武 O
+警 O
+店 O
+
+你 O
+给 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+铁 B-inform-终点名称
+山 I-inform-终点名称
+镇 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+景 B-inform-终点名称
+田 I-inform-终点名称
+南 I-inform-终点名称
+路 I-inform-终点名称
+一 I-inform-终点名称
+号 I-inform-终点名称
+交 I-inform-终点名称
+通 I-inform-终点名称
+银 I-inform-终点名称
+行 I-inform-终点名称
+
+我 O
+要 O
+去 O
+梅 B-inform-终点名称
+江 I-inform-终点名称
+
+云 B-inform-poi名称
+南 I-inform-poi名称
+省 I-inform-poi名称
+枚 I-inform-poi名称
+江 I-inform-poi名称
+县 I-inform-poi名称
+
+导 B-inform-对象
+航 I-inform-对象
+
+帮 O
+我 O
+
+利 O
+用 O
+村 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+肥 B-inform-终点名称
+东 I-inform-终点名称
+汽 I-inform-终点名称
+配 I-inform-终点名称
+城 I-inform-终点名称
+
+到 O
+海 B-inform-终点名称
+阳 I-inform-终点名称
+市 I-inform-终点名称
+大 I-inform-终点名称
+泊 I-inform-终点名称
+子 I-inform-终点名称
+村 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+西 B-inform-终点名称
+安 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+徐 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+火 I-inform-终点名称
+车 I-inform-终点名称
+站 I-inform-终点名称
+
+去 O
+大 B-inform-终点名称
+众 I-inform-终点名称
+苑 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+平 B-inform-终点名称
+邑 I-inform-终点名称
+县 I-inform-终点名称
+肯 I-inform-终点名称
+德 I-inform-终点名称
+基 I-inform-终点名称
+
+这 O
+个 O
+停 B-inform-poi名称
+车 I-inform-poi名称
+场 I-inform-poi名称
+园 O
+乐 O
+进 O
+的 O
+地 O
+方 O
+有 O
+停 O
+车 O
+场 O
+吗 O
+
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+一 O
+个 O
+最 O
+近 O
+的 O
+一 O
+个 O
+
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+一 O
+个 O
+尽 O
+的 O
+停 B-inform-poi目标
+车 I-inform-poi目标
+场 I-inform-poi目标
+
+找 O
+一 O
+停 B-inform-poi名称
+车 I-inform-poi名称
+场 I-inform-poi名称
+吗 O
+
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+地 O
+方 O
+有 O
+停 B-inform-poi目标
+车 I-inform-poi目标
+场 I-inform-poi目标
+吗 O
+
+不 O
+去 O
+了 O
+
+停 B-inform-poi目标
+车 I-inform-poi目标
+场 I-inform-poi目标
+找 B-inform-操作
+个 O
+停 O
+车 O
+场 O
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+停 O
+车 O
+场 O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+来 O
+师 O
+傅 O
+在 O
+哪 O
+里 O
+停 O
+车 O
+场 O
+
+是 O
+啊 O
+
+收 B-inform-poi名称
+费 I-inform-poi名称
+站 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+眉 B-inform-终点名称
+州 I-inform-终点名称
+东 I-inform-终点名称
+坡 I-inform-终点名称
+泛 I-inform-终点名称
+海 I-inform-终点名称
+店 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+广 B-inform-终点名称
+卫 I-inform-终点名称
+物 I-inform-终点名称
+流 I-inform-终点名称
+城 I-inform-终点名称
+
+下 B-inform-页码
+一 I-inform-页码
+页 I-inform-页码
+
+下 B-inform-页码
+一 I-inform-页码
+页 I-inform-页码
+
+上 B-inform-页码
+一 I-inform-页码
+页 I-inform-页码
+
+下 B-inform-页码
+一 I-inform-页码
+页 I-inform-页码
+
+第 B-inform-序列号
+四 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+
+大 B-inform-poi名称
+庆 I-inform-poi名称
+街 I-inform-poi名称
+
+第 B-inform-序列号
+五 I-inform-序列号
+个 I-inform-序列号
+
+去 O
+清 B-inform-终点名称
+溪 I-inform-终点名称
+镇 I-inform-终点名称
+景 I-inform-终点名称
+荣 I-inform-终点名称
+工 I-inform-终点名称
+业 I-inform-终点名称
+园 I-inform-终点名称
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+到 O
+广 O
+州 O
+东 O
+站 O
+重 O
+聚 O
+酒 O
+店 O
+
+放 B-inform-操作
+大 I-inform-操作
+地 B-inform-对象
+图 I-inform-对象
+
+布 B-inform-poi名称
+亚 I-inform-poi名称
+大 I-inform-poi名称
+厦 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+红 B-inform-终点名称
+花 I-inform-终点名称
+套 I-inform-终点名称
+科 I-inform-终点名称
+目 I-inform-终点名称
+二 I-inform-终点名称
+考 I-inform-终点名称
+场 I-inform-终点名称
+
+帮 O
+我 O
+找 O
+一 O
+下 O
+到 O
+镇 B-inform-终点名称
+江 I-inform-终点名称
+大 I-inform-终点名称
+港 I-inform-终点名称
+御 I-inform-终点名称
+河 I-inform-终点名称
+路 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+马 O
+中 O
+路 O
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+滚 O
+蛋 O
+
+给 O
+我 O
+到 O
+茶 B-inform-终点名称
+园 I-inform-终点名称
+轻 I-inform-终点名称
+轨 I-inform-终点名称
+站 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+太 B-inform-终点名称
+原 I-inform-终点名称
+科 I-inform-终点名称
+技 I-inform-终点名称
+大 I-inform-终点名称
+学 I-inform-终点名称
+
+我 O
+要 O
+去 O
+邯 B-inform-终点名称
+郸 I-inform-终点名称
+
+东 B-inform-poi名称
+站 I-inform-poi名称
+
+我 O
+要 O
+去 O
+太 B-inform-终点名称
+原 I-inform-终点名称
+火 I-inform-终点名称
+车 I-inform-终点名称
+站 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+n O
+u O
+l O
+l O
+
+走 B-inform-路线偏好
+高 I-inform-路线偏好
+速 I-inform-路线偏好
+
+走 B-inform-路线偏好
+高 I-inform-路线偏好
+速 I-inform-路线偏好
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+柳 B-inform-终点名称
+塘 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+去 O
+民 B-inform-终点名称
+和 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+民 B-inform-终点名称
+和 I-inform-终点名称
+县 I-inform-终点名称
+
+四 O
+个 O
+
+去 O
+和 O
+唐 O
+胜 O
+面 O
+
+去 O
+和 O
+
+和 O
+塘 O
+盛 O
+店 O
+
+我 O
+要 O
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+去 O
+三 B-inform-终点名称
+岔 I-inform-终点名称
+社 I-inform-终点名称
+坦 I-inform-终点名称
+坪 I-inform-终点名称
+
+我 O
+要 O
+去 O
+湖 B-inform-终点名称
+州 I-inform-终点名称
+县 I-inform-终点名称
+城 I-inform-终点名称
+
+开 B-inform-操作
+始 I-inform-操作
+导 I-inform-操作
+航 I-inform-操作
+
+柴 B-inform-poi名称
+村 I-inform-poi名称
+广 I-inform-poi名称
+场 I-inform-poi名称
+
+我 O
+现 O
+在 O
+在 O
+不 O
+能 O
+说 O
+不 O
+能 O
+
+n O
+u O
+l O
+l O
+
+开 B-inform-操作
+始 I-inform-操作
+导 I-inform-操作
+航 I-inform-操作
+
+龙 B-inform-poi名称
+门 I-inform-poi名称
+海 I-inform-poi名称
+洋 I-inform-poi名称
+馆 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+南 B-inform-终点名称
+京 I-inform-终点名称
+南 I-inform-终点名称
+站 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+回 O
+家 B-inform-终点名称
+
+新 B-inform-poi名称
+湖 I-inform-poi名称
+果 I-inform-poi名称
+岭 I-inform-poi名称
+
+带 O
+了 O
+
+我 O
+要 O
+去 O
+保 B-inform-终点名称
+利 I-inform-终点名称
+香 I-inform-终点名称
+槟 I-inform-终点名称
+
+你 O
+叫 O
+回 O
+你 O
+是 O
+码 O
+头 O
+
+去 O
+公 B-inform-终点名称
+司 I-inform-终点名称
+
+播 O
+放 O
+
+江 B-inform-poi名称
+苏 I-inform-poi名称
+理 I-inform-poi名称
+士 I-inform-poi名称
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+我 O
+要 O
+去 O
+临 B-inform-终点名称
+沂 I-inform-终点名称
+市 I-inform-终点名称
+河 I-inform-终点名称
+东 I-inform-终点名称
+区 I-inform-终点名称
+
+我 O
+要 O
+去 O
+湖 B-inform-终点名称
+南 I-inform-终点名称
+省 I-inform-终点名称
+怀 I-inform-终点名称
+化 I-inform-终点名称
+市 I-inform-终点名称
+权 I-inform-终点名称
+期 I-inform-终点名称
+限 I-inform-终点名称
+兵 I-inform-终点名称
+马 I-inform-终点名称
+冲 I-inform-终点名称
+村 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+去 O
+广 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+鑫 I-inform-终点名称
+物 I-inform-终点名称
+流 I-inform-终点名称
+
+第 B-inform-序列号
+三 I-inform-序列号
+
+我 O
+要 O
+去 O
+北 B-inform-终点名称
+六 I-inform-终点名称
+里 I-inform-终点名称
+变 I-inform-终点名称
+电 I-inform-终点名称
+所 I-inform-终点名称
+
+去 O
+文 B-inform-终点名称
+安 I-inform-终点名称
+县 I-inform-终点名称
+
+就 O
+是 O
+我 O
+安 O
+县 O
+
+我 O
+要 O
+来 O
+一 O
+见 O
+
+我 O
+要 O
+去 O
+呼 B-inform-终点名称
+市 I-inform-终点名称
+第 I-inform-终点名称
+十 I-inform-终点名称
+四 I-inform-终点名称
+中 I-inform-终点名称
+学 I-inform-终点名称
+
+到 O
+九 B-inform-终点名称
+江 I-inform-终点名称
+乡 I-inform-终点名称
+过 I-inform-终点名称
+场 I-inform-终点名称
+
+我 O
+要 O
+去 O
+长 B-inform-终点名称
+庆 I-inform-终点名称
+桥 I-inform-终点名称
+
+近 B-inform-请求类型
+郊 I-inform-请求类型
+有 O
+什 O
+么 O
+好 B-inform-poi名称
+玩 I-inform-poi名称
+的 I-inform-poi名称
+地 I-inform-poi名称
+方 I-inform-poi名称
+
+推 B-inform-操作
+荐 I-inform-操作
+一 O
+个 O
+
+推 B-inform-操作
+荐 I-inform-操作
+一 O
+个 O
+好 B-inform-poi名称
+玩 I-inform-poi名称
+的 I-inform-poi名称
+地 I-inform-poi名称
+方 I-inform-poi名称
+
+推 B-inform-操作
+荐 I-inform-操作
+一 O
+个 O
+附 B-inform-请求类型
+近 I-inform-请求类型
+好 B-inform-poi名称
+玩 I-inform-poi名称
+的 I-inform-poi名称
+地 I-inform-poi名称
+方 I-inform-poi名称
+
+吃 B-inform-poi名称
+喝 I-inform-poi名称
+玩 I-inform-poi名称
+的 I-inform-poi名称
+地 I-inform-poi名称
+方 I-inform-poi名称
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+Q O
+I O
+N O
+G O
+
+取 B-inform-操作
+消 I-inform-操作
+
+去 O
+嵩 B-inform-终点名称
+县 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+我 O
+要 O
+去 O
+狮 B-inform-终点名称
+山 I-inform-终点名称
+华 I-inform-终点名称
+冲 I-inform-终点名称
+村 I-inform-终点名称
+
+我 O
+要 O
+去 O
+齐 B-inform-终点名称
+云 I-inform-终点名称
+馆 I-inform-终点名称
+
+小 O
+乐 O
+
+导 B-inform-操作
+航 O
+到 O
+了 O
+鸿 O
+宝 O
+C O
+区 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+五 O
+堡 O
+四 O
+区 O
+
+退 B-inform-操作
+出 I-inform-操作
+
+回 O
+家 B-inform-终点名称
+
+国 B-inform-poi名称
+贸 I-inform-poi名称
+大 I-inform-poi名称
+润 I-inform-poi名称
+发 I-inform-poi名称
+
+超 B-inform-poi名称
+市 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+去 O
+江 B-inform-终点名称
+阴 I-inform-终点名称
+步 I-inform-终点名称
+行 I-inform-终点名称
+街 I-inform-终点名称
+如 I-inform-终点名称
+家 I-inform-终点名称
+快 I-inform-终点名称
+捷 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+大 O
+饭 O
+店 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+华 B-inform-终点名称
+旗 I-inform-终点名称
+金 I-inform-终点名称
+悦 I-inform-终点名称
+府 I-inform-终点名称
+
+你 O
+好 O
+小 O
+明 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+金 B-inform-终点名称
+月 I-inform-终点名称
+福 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+华 B-inform-poi名称
+启 I-inform-poi名称
+金 I-inform-poi名称
+悦 I-inform-poi名称
+府 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+八 O
+方 O
+豪 O
+情 O
+K O
+T O
+V O
+
+我 O
+要 O
+去 O
+舜 O
+奥 O
+华 O
+
+去 O
+太 B-inform-终点名称
+原 I-inform-终点名称
+市 I-inform-终点名称
+第 I-inform-终点名称
+八 I-inform-终点名称
+人 I-inform-终点名称
+民 I-inform-终点名称
+医 I-inform-终点名称
+院 I-inform-终点名称
+
+我 O
+要 O
+去 O
+保 B-inform-终点名称
+定 I-inform-终点名称
+市 I-inform-终点名称
+秀 I-inform-终点名称
+园 I-inform-终点名称
+路 I-inform-终点名称
+东 I-inform-终点名称
+口 I-inform-终点名称
+
+附 B-inform-请求类型
+近 I-inform-请求类型
+附 O
+近 O
+综 B-inform-poi目标
+合 I-inform-poi目标
+商 I-inform-poi目标
+店 I-inform-poi目标
+
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+去 O
+浙 B-inform-终点名称
+江 I-inform-终点名称
+省 I-inform-终点名称
+省 I-inform-终点名称
+高 I-inform-终点名称
+级 I-inform-终点名称
+中 I-inform-终点名称
+学 I-inform-终点名称
+
+到 O
+天 B-inform-终点名称
+都 I-inform-终点名称
+国 I-inform-终点名称
+际 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+左 B-inform-终点名称
+权 I-inform-终点名称
+县 I-inform-终点名称
+科 I-inform-终点名称
+目 I-inform-终点名称
+一 I-inform-终点名称
+考 I-inform-终点名称
+场 I-inform-终点名称
+
+导 O
+航 O
+到 O
+担 B-inform-终点名称
+山 I-inform-终点名称
+屯 I-inform-终点名称
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+辛 B-inform-终点名称
+辟 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+到 O
+乾 B-inform-终点名称
+宫 I-inform-终点名称
+
+黄 B-inform-poi名称
+金 I-inform-poi名称
+海 I-inform-poi名称
+岸 I-inform-poi名称
+
+我 O
+要 O
+去 O
+家 B-inform-终点名称
+和 I-inform-终点名称
+购 I-inform-终点名称
+物 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+恒 B-inform-终点名称
+大 I-inform-终点名称
+金 I-inform-终点名称
+碧 I-inform-终点名称
+天 I-inform-终点名称
+下 I-inform-终点名称
+
+我 O
+要 O
+去 O
+退 O
+太 B-inform-终点名称
+原 I-inform-终点名称
+市 I-inform-终点名称
+
+四 O
+个 O
+
+导 O
+航 O
+
+导 O
+航 O
+到 O
+了 O
+下 O
+午 O
+场 O
+到 O
+了 O
+洲 O
+心 O
+中 O
+心 O
+小 O
+学 O
+
+应 O
+该 O
+是 O
+萧 B-inform-poi名称
+山 I-inform-poi名称
+萧 I-inform-poi名称
+山 I-inform-poi名称
+县 I-inform-poi名称
+中 I-inform-poi名称
+心 I-inform-poi名称
+小 I-inform-poi名称
+学 I-inform-poi名称
+中 I-inform-poi名称
+心 I-inform-poi名称
+小 I-inform-poi名称
+学 I-inform-poi名称
+
+天 O
+之 O
+眼 O
+
+导 O
+航 O
+
+孝 B-inform-poi名称
+昌 I-inform-poi名称
+县 I-inform-poi名称
+
+来 O
+一 O
+首 O
+心 O
+小 O
+学 O
+
+听 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+新 B-inform-终点名称
+梅 I-inform-终点名称
+大 I-inform-终点名称
+厦 I-inform-终点名称
+
+运 B-inform-poi名称
+乔 I-inform-poi名称
+建 I-inform-poi名称
+材 I-inform-poi名称
+城 I-inform-poi名称
+
+到 O
+武 B-inform-终点名称
+侯 I-inform-终点名称
+社 I-inform-终点名称
+保 I-inform-终点名称
+局 I-inform-终点名称
+
+嗯 O
+去 O
+哪 O
+津 B-inform-终点名称
+南 I-inform-终点名称
+区 I-inform-终点名称
+人 I-inform-终点名称
+民 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+蓝 B-inform-poi名称
+天 I-inform-poi名称
+家 I-inform-poi名称
+园 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+翡 B-inform-终点名称
+翠 I-inform-终点名称
+锦 I-inform-终点名称
+园 I-inform-终点名称
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+
+上 B-inform-poi名称
+海 I-inform-poi名称
+市 I-inform-poi名称
+青 I-inform-poi名称
+浦 I-inform-poi名称
+区 I-inform-poi名称
+长 I-inform-poi名称
+源 I-inform-poi名称
+家 I-inform-poi名称
+常 I-inform-poi名称
+菜 I-inform-poi名称
+
+一 O
+个 O
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+去 O
+无 B-inform-终点名称
+锡 I-inform-终点名称
+天 I-inform-终点名称
+一 I-inform-终点名称
+高 I-inform-终点名称
+架 I-inform-终点名称
+桥 I-inform-终点名称
+不 B-inform-路线偏好
+走 I-inform-路线偏好
+高 I-inform-路线偏好
+速 I-inform-路线偏好
+
+去 O
+新 B-inform-终点名称
+市 I-inform-终点名称
+府 I-inform-终点名称
+
+推 B-inform-操作
+荐 I-inform-操作
+路 B-inform-对象
+线 I-inform-对象
+
+推 B-inform-操作
+荐 I-inform-操作
+
+音 O
+乐 O
+开 B-inform-操作
+始 I-inform-操作
+导 I-inform-操作
+航 I-inform-操作
+
+来 O
+这 O
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+石 O
+岘 O
+依 O
+铮 O
+
+我 O
+咋 O
+一 O
+圈 O
+专 O
+科 O
+说 O
+说 O
+
+我 O
+导 B-inform-操作
+言 O
+实 O
+是 O
+骆 O
+仙 O
+镇 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+才 B-inform-终点名称
+村 I-inform-终点名称
+码 I-inform-终点名称
+头 I-inform-终点名称
+
+那 O
+个 O
+
+我 O
+要 O
+去 O
+安 B-inform-终点名称
+顺 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+木 B-inform-终点名称
+子 I-inform-终点名称
+汽 I-inform-终点名称
+车 I-inform-终点名称
+服 I-inform-终点名称
+务 I-inform-终点名称
+中 I-inform-终点名称
+心 I-inform-终点名称
+
+拇 B-inform-poi名称
+指 I-inform-poi名称
+汽 I-inform-poi名称
+车 I-inform-poi名称
+服 I-inform-poi名称
+务 I-inform-poi名称
+中 I-inform-poi名称
+心 I-inform-poi名称
+
+我 O
+要 O
+去 O
+惠 B-inform-终点名称
+山 I-inform-终点名称
+区 I-inform-终点名称
+两 O
+城 O
+市 O
+
+你 O
+好 O
+捷 O
+渡 O
+
+要 O
+去 O
+惠 B-inform-终点名称
+山 I-inform-终点名称
+区 I-inform-终点名称
+理 I-inform-终点名称
+想 I-inform-终点名称
+城 I-inform-终点名称
+市 I-inform-终点名称
+
+我 O
+要 O
+去 O
+新 O
+庄 O
+N O
+申 O
+港 O
+路 O
+二 O
+百 O
+九 O
+十 O
+八 O
+号 O
+
+你 O
+吃 O
+饭 O
+了 O
+吗 O
+
+你 O
+知 O
+道 O
+阳 O
+淼 O
+是 O
+谁 O
+吗 O
+
+我 O
+不 O
+是 O
+阳 O
+淼 O
+
+我 O
+要 O
+去 O
+阳 O
+淼 O
+的 O
+爸 O
+爸 O
+
+我 O
+是 O
+阳 O
+淼 O
+的 O
+爸 O
+爸 O
+
+我 O
+要 O
+回 O
+家 B-inform-终点名称
+
+任 O
+丘 O
+
+错 O
+了 O
+错 O
+了 O
+
+回 O
+定 B-inform-终点名称
+襄 I-inform-终点名称
+县 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+大 B-inform-poi名称
+石 I-inform-poi名称
+桥 I-inform-poi名称
+
+你 O
+妈 O
+我 O
+
+n O
+u O
+l O
+l O
+
+笨 O
+蛋 O
+
+操 O
+你 O
+妈 O
+
+湖 O
+南 O
+
+呵 O
+呵 O
+
+我 O
+觉 O
+得 O
+你 O
+太 O
+笨 O
+了 O
+我 O
+就 O
+好 O
+笑 O
+
+找 O
+个 O
+怎 O
+么 O
+不 O
+
+带 O
+
+去 O
+金 B-inform-终点名称
+龙 I-inform-终点名称
+桥 I-inform-终点名称
+啊 O
+
+去 O
+东 B-inform-终点名称
+方 I-inform-终点名称
+龙 I-inform-终点名称
+城 I-inform-终点名称
+雅 I-inform-终点名称
+乐 I-inform-终点名称
+园 I-inform-终点名称
+
+嗯 O
+个 O
+
+放 O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+嗯 O
+几 O
+点 O
+了 O
+好 O
+我 O
+要 O
+去 O
+凌 B-inform-终点名称
+源 I-inform-终点名称
+市 I-inform-终点名称
+人 I-inform-终点名称
+民 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+我 O
+要 O
+吃 B-inform-poi名称
+饭 I-inform-poi名称
+
+到 O
+港 B-inform-终点名称
+港 I-inform-终点名称
+上 I-inform-终点名称
+港 I-inform-终点名称
+
+港 B-inform-poi名称
+上 I-inform-poi名称
+港 I-inform-poi名称
+
+找 B-inform-操作
+到 O
+东 B-inform-poi名称
+山 I-inform-poi名称
+一 O
+中 O
+
+定 B-inform-操作
+位 I-inform-操作
+华 B-inform-poi名称
+侨 I-inform-poi名称
+城 I-inform-poi名称
+
+因 O
+为 O
+你 O
+家 O
+华 O
+侨 O
+城 O
+
+不 O
+过 O
+下 O
+载 O
+宋 O
+镇 O
+河 O
+边 O
+方 O
+向 O
+走 O
+
+去 O
+了 O
+滨 O
+州 O
+怎 O
+么 O
+走 O
+过 O
+去 O
+还 O
+是 O
+林 O
+场 O
+
+返 B-inform-操作
+回 I-inform-操作
+返 O
+回 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+时 B-inform-终点名称
+代 I-inform-终点名称
+明 I-inform-终点名称
+珠 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+永 B-inform-终点名称
+登 I-inform-终点名称
+
+去 O
+玛 B-inform-终点名称
+依 I-inform-终点名称
+塔 I-inform-终点名称
+村 I-inform-终点名称
+
+去 O
+北 O
+
+麻 O
+烦 O
+了 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+东 B-inform-终点名称
+阳 I-inform-终点名称
+市 I-inform-终点名称
+振 I-inform-终点名称
+兴 I-inform-终点名称
+路 I-inform-终点名称
+一 I-inform-终点名称
+号 I-inform-终点名称
+
+东 B-inform-终点名称
+阳 I-inform-终点名称
+商 I-inform-终点名称
+街 I-inform-终点名称
+导 B-inform-操作
+航 I-inform-操作
+四 O
+
+取 O
+消 O
+到 O
+新 B-inform-终点名称
+镇 I-inform-终点名称
+
+我 O
+在 O
+哪 O
+
+我 O
+要 O
+去 O
+沂 B-inform-终点名称
+江 I-inform-终点名称
+县 I-inform-终点名称
+江 I-inform-终点名称
+埠 I-inform-终点名称
+乡 I-inform-终点名称
+后 I-inform-终点名称
+房 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+退 B-inform-操作
+出 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+去 O
+苏 B-inform-终点名称
+州 I-inform-终点名称
+北 I-inform-终点名称
+站 I-inform-终点名称
+
+订 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+廊 B-inform-终点名称
+坊 I-inform-终点名称
+市 I-inform-终点名称
+码 I-inform-终点名称
+头 I-inform-终点名称
+马 I-inform-终点名称
+头 I-inform-终点名称
+镇 I-inform-终点名称
+
+导 B-inform-对象
+航 I-inform-对象
+
+关 B-inform-操作
+闭 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+宁 B-inform-poi名称
+德 I-inform-poi名称
+路 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+兰 O
+线 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+大 B-inform-终点名称
+齐 I-inform-终点名称
+塘 I-inform-终点名称
+
+我 O
+要 O
+去 O
+普 B-inform-终点名称
+洱 I-inform-终点名称
+市 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+南 B-inform-终点名称
+京 I-inform-终点名称
+市 I-inform-终点名称
+
+猪 O
+的 O
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+吃 O
+杯 O
+
+导 B-inform-操作
+航 I-inform-操作
+车 B-inform-终点名称
+陂 I-inform-终点名称
+
+去 O
+呼 B-inform-终点名称
+市 I-inform-终点名称
+和 I-inform-终点名称
+林 I-inform-终点名称
+蒙 I-inform-终点名称
+牛 I-inform-终点名称
+公 I-inform-终点名称
+司 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+花 B-inform-终点名称
+溪 I-inform-终点名称
+碧 I-inform-终点名称
+桂 I-inform-终点名称
+园 I-inform-终点名称
+
+我 O
+要 O
+去 O
+开 B-inform-终点名称
+阳 I-inform-终点名称
+毛 I-inform-终点名称
+云 I-inform-终点名称
+
+到 O
+兴 B-inform-终点名称
+康 I-inform-终点名称
+业 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+玉 B-inform-终点名称
+林 I-inform-终点名称
+村 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+福 B-inform-终点名称
+克 I-inform-终点名称
+吉 I-inform-终点名称
+瑞 I-inform-终点名称
+大 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+小 B-inform-终点名称
+庄 I-inform-终点名称
+村 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+关 B-inform-操作
+闭 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+给 O
+我 O
+
+到 O
+鲁 B-inform-终点名称
+东 I-inform-终点名称
+大 I-inform-终点名称
+学 I-inform-终点名称
+北 I-inform-终点名称
+十 I-inform-终点名称
+二 I-inform-终点名称
+宿 I-inform-终点名称
+舍 I-inform-终点名称
+
+我 O
+要 O
+到 O
+米 B-inform-终点名称
+易 I-inform-终点名称
+县 I-inform-终点名称
+平 I-inform-终点名称
+朗 I-inform-终点名称
+村 I-inform-终点名称
+
+去 O
+福 B-inform-终点名称
+耀 I-inform-终点名称
+玻 I-inform-终点名称
+璃 I-inform-终点名称
+
+拨 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+呈 B-inform-终点名称
+贡 I-inform-终点名称
+区 I-inform-终点名称
+七 I-inform-终点名称
+店 I-inform-终点名称
+村 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+天 B-inform-终点名称
+堂 I-inform-终点名称
+寺 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+乌 B-inform-终点名称
+冲 I-inform-终点名称
+码 I-inform-终点名称
+头 I-inform-终点名称
+
+你 O
+干 O
+潭 O
+一 O
+来 O
+就 O
+行 O
+我 O
+们 O
+能 O
+不 O
+能 O
+不 O
+会 O
+用 O
+挂 O
+
+一 O
+
+你 O
+好 O
+问 O
+问 O
+都 O
+智 O
+不 O
+清 O
+
+去 O
+福 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+福 I-inform-终点名称
+清 I-inform-终点名称
+东 I-inform-终点名称
+方 I-inform-终点名称
+第 I-inform-终点名称
+一 I-inform-终点名称
+漂 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+虹 B-inform-终点名称
+畔 I-inform-终点名称
+馨 I-inform-终点名称
+苑 I-inform-终点名称
+
+去 O
+南 B-inform-终点名称
+山 I-inform-终点名称
+区 I-inform-终点名称
+桂 I-inform-终点名称
+庙 I-inform-终点名称
+路 I-inform-终点名称
+四 I-inform-终点名称
+十 I-inform-终点名称
+一 I-inform-终点名称
+号 I-inform-终点名称
+
+给 O
+每 O
+个 O
+风 O
+雨 O
+公 O
+里 O
+不 O
+准 O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+给 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+西 B-inform-终点名称
+固 I-inform-终点名称
+镇 I-inform-终点名称
+
+小 B-inform-poi名称
+豆 I-inform-poi名称
+岭 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+松 B-inform-终点名称
+原 I-inform-终点名称
+市 I-inform-终点名称
+
+去 O
+阿 B-inform-终点名称
+尔 I-inform-终点名称
+山 I-inform-终点名称
+
+去 O
+上 B-inform-终点名称
+海 I-inform-终点名称
+
+我 O
+要 O
+去 O
+六 B-inform-终点名称
+街 I-inform-终点名称
+镇 I-inform-终点名称
+
+拨 O
+通 O
+福 B-inform-poi修饰
+海 I-inform-poi修饰
+县 I-inform-poi修饰
+到 O
+乌 O
+龙 O
+贾 O
+湖 O
+
+萝 O
+卜 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+淄 B-inform-终点名称
+博 I-inform-终点名称
+山 I-inform-终点名称
+东 I-inform-终点名称
+理 I-inform-终点名称
+工 I-inform-终点名称
+大 I-inform-终点名称
+学 I-inform-终点名称
+
+你 O
+好 O
+的 O
+路 O
+
+请 O
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+东 B-inform-终点名称
+风 I-inform-终点名称
+日 I-inform-终点名称
+产 I-inform-终点名称
+专 I-inform-终点名称
+卖 I-inform-终点名称
+店 I-inform-终点名称
+
+河 O
+南 O
+岸 O
+
+小 O
+明 O
+我 O
+到 O
+建 B-inform-终点名称
+设 I-inform-终点名称
+路 I-inform-终点名称
+小 I-inform-终点名称
+学 I-inform-终点名称
+
+听 O
+幢 O
+
+一 O
+个 O
+
+n O
+u O
+l O
+l O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+凤 O
+姐 O
+巴 B-inform-终点名称
+蜀 I-inform-终点名称
+中 I-inform-终点名称
+学 I-inform-终点名称
+
+去 O
+金 B-inform-终点名称
+泰 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+我 O
+要 O
+去 O
+安 B-inform-终点名称
+顺 I-inform-终点名称
+市 I-inform-终点名称
+
+回 O
+家 B-inform-终点名称
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+去 O
+重 B-inform-终点名称
+庆 I-inform-终点名称
+市 I-inform-终点名称
+
+兴 B-inform-poi名称
+隆 I-inform-poi名称
+县 I-inform-poi名称
+交 I-inform-poi名称
+警 I-inform-poi名称
+大 I-inform-poi名称
+队 I-inform-poi名称
+
+我 O
+要 O
+去 O
+东 B-inform-终点名称
+平 I-inform-终点名称
+湖 I-inform-终点名称
+去 O
+玩 O
+
+继 O
+续 O
+上 O
+次 O
+导 O
+航 O
+
+呵 O
+呵 O
+
+导 B-inform-对象
+航 I-inform-对象
+取 B-inform-操作
+消 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+东 B-inform-终点名称
+莞 I-inform-终点名称
+长 I-inform-终点名称
+安 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+豪 B-inform-poi名称
+生 I-inform-poi名称
+大 I-inform-poi名称
+酒 I-inform-poi名称
+店 I-inform-poi名称
+名 I-inform-poi名称
+城 I-inform-poi名称
+豪 I-inform-poi名称
+生 I-inform-poi名称
+大 I-inform-poi名称
+酒 I-inform-poi名称
+店 I-inform-poi名称
+
+我 O
+要 O
+去 O
+善 O
+婷 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+家 O
+富 O
+富 O
+侨 O
+广 O
+东 O
+省 O
+店 O
+
+我 O
+想 O
+摸 O
+你 O
+的 O
+奶 O
+奶 O
+
+导 O
+航 O
+我 O
+也 O
+想 O
+和 O
+你 O
+做 O
+爱 O
+
+怎 O
+么 O
+到 O
+现 O
+在 O
+是 O
+什 O
+么 O
+
+你 O
+说 O
+到 O
+哪 O
+里 O
+就 O
+到 O
+哪 O
+里 O
+
+我 O
+要 O
+向 O
+到 O
+仙 B-inform-终点名称
+居 I-inform-终点名称
+宾 I-inform-终点名称
+馆 I-inform-终点名称
+做 O
+爱 O
+
+到 O
+仙 B-inform-终点名称
+居 I-inform-终点名称
+宾 I-inform-终点名称
+馆 I-inform-终点名称
+
+退 B-inform-操作
+出 I-inform-操作
+
+去 O
+长 B-inform-终点名称
+沙 I-inform-终点名称
+高 I-inform-终点名称
+桥 I-inform-终点名称
+汽 I-inform-终点名称
+配 I-inform-终点名称
+城 I-inform-终点名称
+
+我 O
+要 O
+去 O
+中 B-inform-终点名称
+山 I-inform-终点名称
+伟 I-inform-终点名称
+力 I-inform-终点名称
+通 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+搜 B-inform-操作
+索 I-inform-操作
+烟 B-inform-poi名称
+台 I-inform-poi名称
+中 I-inform-poi名称
+冀 I-inform-poi名称
+斯 I-inform-poi名称
+巴 I-inform-poi名称
+鲁 I-inform-poi名称
+销 I-inform-poi名称
+售 I-inform-poi名称
+有 I-inform-poi名称
+限 I-inform-poi名称
+公 I-inform-poi名称
+司 I-inform-poi名称
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+水 B-inform-终点名称
+晶 I-inform-终点名称
+森 I-inform-终点名称
+林 I-inform-终点名称
+
+我 O
+要 O
+去 O
+廊 B-inform-终点名称
+坊 I-inform-终点名称
+
+去 O
+廊 B-inform-终点名称
+坊 I-inform-终点名称
+市 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+回 O
+家 B-inform-终点名称
+
+华 O
+一 O
+酒 O
+店 O
+
+你 O
+好 O
+到 O
+北 B-inform-终点名称
+客 I-inform-终点名称
+站 I-inform-终点名称
+
+一 B-inform-序列号
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+嗨 O
+叮 O
+咚 O
+
+导 B-inform-操作
+航 I-inform-操作
+开 I-inform-操作
+始 I-inform-操作
+
+我 O
+要 O
+到 O
+市 B-inform-终点名称
+南 I-inform-终点名称
+区 I-inform-终点名称
+天 I-inform-终点名称
+台 I-inform-终点名称
+一 I-inform-终点名称
+路 I-inform-终点名称
+
+二 O
+哥 O
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+到 O
+石 B-inform-终点名称
+河 I-inform-终点名称
+子 I-inform-终点名称
+市 I-inform-终点名称
+
+我 O
+要 O
+去 O
+开 B-inform-终点修饰
+县 I-inform-终点修饰
+的 O
+龙 B-inform-终点目标
+王 I-inform-终点目标
+庙 I-inform-终点目标
+
+去 O
+黄 O
+河 O
+谷 O
+和 O
+医 O
+院 O
+
+导 B-inform-操作
+航 I-inform-操作
+一 O
+下 O
+北 B-inform-终点名称
+京 I-inform-终点名称
+天 I-inform-终点名称
+安 I-inform-终点名称
+门 I-inform-终点名称
+
+附 O
+近 O
+的 O
+四 O
+个 O
+小 O
+孩 O
+第 B-inform-序列号
+四 I-inform-序列号
+个 I-inform-序列号
+
+迁 O
+安 O
+门 O
+广 O
+场 O
+
+需 O
+要 O
+
+第 B-inform-序列号
+四 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+火 B-inform-终点名称
+车 I-inform-终点名称
+北 I-inform-终点名称
+站 I-inform-终点名称
+售 I-inform-终点名称
+票 I-inform-终点名称
+厅 I-inform-终点名称
+
+去 O
+凤 B-inform-终点名称
+桥 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+请 O
+帮 O
+我 O
+查 B-inform-操作
+找 I-inform-操作
+山 B-inform-poi名称
+西 I-inform-poi名称
+水 I-inform-poi名称
+务 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+结 B-inform-操作
+束 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+密 B-inform-终点名称
+地 I-inform-终点名称
+桥 I-inform-终点名称
+
+我 O
+要 O
+去 O
+都 O
+别 O
+格 O
+派 O
+出 O
+所 O
+
+你 O
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+亦 B-inform-终点名称
+庄 I-inform-终点名称
+远 I-inform-终点名称
+洋 I-inform-终点名称
+天 I-inform-终点名称
+著 I-inform-终点名称
+二 I-inform-终点名称
+期 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+商 B-inform-终点名称
+丘 I-inform-终点名称
+
+我 O
+要 O
+去 O
+泰 B-inform-终点名称
+康 I-inform-终点名称
+
+开 O
+
+n O
+u O
+l O
+l O
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+泉 B-inform-终点名称
+城 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+铁 B-inform-终点名称
+牛 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+冈 B-inform-终点名称
+田 I-inform-终点名称
+
+再 O
+见 O
+再 O
+见 O
+
+我 O
+要 O
+去 O
+青 B-inform-终点名称
+白 I-inform-终点名称
+江 I-inform-终点名称
+
+去 O
+小 B-inform-终点名称
+坝 I-inform-终点名称
+
+我 O
+要 O
+去 O
+三 B-inform-终点名称
+和 I-inform-终点名称
+悦 I-inform-终点名称
+城 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+到 O
+南 O
+江 O
+尾 O
+村 O
+
+取 B-inform-操作
+消 I-inform-操作
+
+江 B-inform-poi名称
+尾 I-inform-poi名称
+村 I-inform-poi名称
+
+五 B-inform-poi名称
+家 I-inform-poi名称
+渠 I-inform-poi名称
+市 I-inform-poi名称
+
+n O
+u O
+l O
+l O
+
+打 O
+给 O
+挂 O
+
+去 O
+大 B-inform-终点名称
+众 I-inform-终点名称
+天 I-inform-终点名称
+津 I-inform-终点名称
+工 I-inform-终点名称
+厂 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+去 O
+芦 B-inform-终点名称
+岗 I-inform-终点名称
+乡 I-inform-终点名称
+崔 I-inform-终点名称
+寨 I-inform-终点名称
+村 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+鲁 O
+山 O
+事 O
+件 O
+行 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+
+广 B-inform-poi名称
+安 I-inform-poi名称
+国 I-inform-poi名称
+际 I-inform-poi名称
+
+取 O
+消 O
+你 O
+妈 O
+的 O
+逼 O
+的 O
+取 O
+消 O
+
+我 O
+饿 O
+了 O
+国 O
+际 O
+花 O
+园 O
+
+到 O
+高 B-inform-终点名称
+碑 I-inform-终点名称
+店 I-inform-终点名称
+市 I-inform-终点名称
+
+一 B-inform-序列号
+
+导 B-inform-对象
+航 I-inform-对象
+
+回 O
+来 O
+了 O
+听 O
+
+去 O
+永 O
+昌 O
+县 O
+骊 O
+千 O
+盛 O
+
+随 O
+便 O
+上 O
+厕 B-inform-终点名称
+所 I-inform-终点名称
+
+我 O
+要 O
+去 O
+丽 B-inform-终点名称
+江 I-inform-终点名称
+古 I-inform-终点名称
+城 I-inform-终点名称
+
+我 O
+要 O
+的 O
+厕 O
+所 O
+一 O
+层 O
+
+车 O
+丽 O
+千 O
+古 O
+城 O
+
+历 B-inform-poi名称
+千 I-inform-poi名称
+古 I-inform-poi名称
+城 I-inform-poi名称
+
+我 O
+感 O
+觉 O
+来 O
+
+没 O
+钱 O
+拿 O
+好 O
+了 O
+没 O
+有 O
+
+那 O
+好 O
+
+就 O
+是 O
+
+我 O
+要 O
+去 O
+加 B-inform-终点名称
+油 I-inform-终点名称
+站 I-inform-终点名称
+
+确 O
+定 O
+
+我 O
+到 O
+山 B-inform-终点名称
+西 I-inform-终点名称
+省 I-inform-终点名称
+渭 I-inform-终点名称
+南 I-inform-终点名称
+市 I-inform-终点名称
+蒲 I-inform-终点名称
+城 I-inform-终点名称
+县 I-inform-终点名称
+红 I-inform-终点名称
+旗 I-inform-终点名称
+车 I-inform-终点名称
+站 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+兰 B-inform-终点名称
+考 I-inform-终点名称
+县 I-inform-终点名称
+逸 I-inform-终点名称
+丰 I-inform-终点名称
+乡 I-inform-终点名称
+西 I-inform-终点名称
+毛 I-inform-终点名称
+古 I-inform-终点名称
+村 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+保 O
+铺 O
+村 O
+收 O
+费 O
+站 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+芦 B-inform-终点名称
+庄 I-inform-终点名称
+六 I-inform-终点名称
+区 I-inform-终点名称
+
+大 B-inform-poi名称
+冶 I-inform-poi名称
+市 I-inform-poi名称
+
+去 O
+海 B-inform-终点名称
+得 I-inform-终点名称
+汽 I-inform-终点名称
+配 I-inform-终点名称
+城 I-inform-终点名称
+
+我 O
+要 O
+去 O
+七 B-inform-终点名称
+天 I-inform-终点名称
+商 I-inform-终点名称
+务 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+你 O
+好 O
+阿 O
+宝 O
+去 O
+浦 O
+城 O
+是 O
+
+我 O
+要 O
+去 O
+普 B-inform-终点名称
+城 I-inform-终点名称
+市 I-inform-终点名称
+
+帮 O
+我 O
+导 B-inform-操作
+到 O
+高 B-inform-终点名称
+铁 I-inform-终点名称
+站 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+打 B-inform-操作
+开 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+我 O
+要 O
+去 O
+白 B-inform-终点名称
+庄 I-inform-终点名称
+子 I-inform-终点名称
+湿 I-inform-终点名称
+地 I-inform-终点名称
+公 I-inform-终点名称
+园 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+云 B-inform-终点名称
+投 I-inform-终点名称
+集 I-inform-终点名称
+团 I-inform-终点名称
+
+去 O
+罗 B-inform-终点名称
+江 I-inform-终点名称
+县 I-inform-终点名称
+贵 I-inform-终点名称
+妃 I-inform-终点名称
+枣 I-inform-终点名称
+园 I-inform-终点名称
+
+深 B-inform-poi名称
+南 I-inform-poi名称
+大 I-inform-poi名称
+道 I-inform-poi名称
+的 O
+路 O
+况 O
+
+退 O
+下 O
+
+导 B-inform-操作
+航 I-inform-操作
+中 B-inform-终点名称
+原 I-inform-终点名称
+城 I-inform-终点名称
+市 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+停 I-inform-终点名称
+车 I-inform-终点名称
+场 I-inform-终点名称
+
+我 O
+要 O
+去 O
+大 O
+馅 O
+临 O
+汾 O
+岗 O
+
+来 O
+一 O
+个 O
+故 O
+事 O
+
+关 B-inform-操作
+闭 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 O
+航 O
+
+龙 B-inform-poi名称
+光 I-inform-poi名称
+城 I-inform-poi名称
+北 I-inform-poi名称
+四 I-inform-poi名称
+期 I-inform-poi名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+留 B-inform-poi名称
+下 I-inform-poi名称
+镇 I-inform-poi名称
+
+我 O
+要 O
+去 O
+尼 B-inform-终点名称
+苏 I-inform-终点名称
+小 I-inform-终点名称
+镇 I-inform-终点名称
+
+师 B-inform-poi名称
+范 I-inform-poi名称
+大 I-inform-poi名称
+学 I-inform-poi名称
+协 I-inform-poi名称
+和 I-inform-poi名称
+学 I-inform-poi名称
+院 I-inform-poi名称
+计 I-inform-poi名称
+算 I-inform-poi名称
+机 I-inform-poi名称
+楼 I-inform-poi名称
+
+去 O
+福 O
+建 O
+师 O
+范 O
+大 O
+学 O
+协 O
+和 O
+季 O
+协 O
+和 O
+学 O
+院 O
+计 O
+算 O
+机 O
+楼 O
+D O
+
+去 O
+往 O
+献 B-inform-终点名称
+县 I-inform-终点名称
+
+我 O
+要 O
+去 O
+康 B-inform-终点名称
+南 I-inform-终点名称
+小 I-inform-终点名称
+学 I-inform-终点名称
+
+去 O
+华 B-inform-终点名称
+师 I-inform-终点名称
+东 I-inform-终点名称
+南 I-inform-终点名称
+门 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+双 B-inform-终点名称
+井 I-inform-终点名称
+子 I-inform-终点名称
+乡 I-inform-终点名称
+
+格 O
+兰 O
+的 O
+是 O
+国 O
+际 O
+大 O
+酒 O
+店 O
+
+去 O
+山 B-inform-终点名称
+西 I-inform-终点名称
+
+我 O
+去 O
+范 B-inform-终点名称
+县 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+希 B-inform-终点名称
+望 I-inform-终点名称
+依 I-inform-终点名称
+山 I-inform-终点名称
+郡 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+四 O
+区 O
+自 O
+贡 O
+市 O
+区 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+退 B-inform-操作
+出 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+
+恩 O
+贾 O
+
+青 B-inform-poi名称
+龙 I-inform-poi名称
+山 I-inform-poi名称
+
+套 O
+行 O
+回 O
+重 B-inform-终点名称
+庆 I-inform-终点名称
+
+春 O
+融 O
+商 O
+务 O
+宾 O
+馆 O
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+去 O
+下 B-inform-终点名称
+沙 I-inform-终点名称
+华 I-inform-终点名称
+媒 I-inform-终点名称
+科 I-inform-终点名称
+创 I-inform-终点名称
+园 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+新 B-inform-终点名称
+泰 I-inform-终点名称
+东 I-inform-终点名称
+高 I-inform-终点名称
+速 I-inform-终点名称
+入 I-inform-终点名称
+口 I-inform-终点名称
+
+我 O
+要 O
+去 O
+天 B-inform-终点名称
+竺 I-inform-终点名称
+路 I-inform-终点名称
+
+我 O
+要 O
+去 O
+上 B-inform-终点名称
+上 I-inform-终点名称
+足 I-inform-终点名称
+
+去 O
+尚 O
+胜 O
+竹 O
+
+去 O
+上 B-inform-终点名称
+上 I-inform-终点名称
+足 I-inform-终点名称
+养 I-inform-终点名称
+生 I-inform-终点名称
+会 I-inform-终点名称
+所 I-inform-终点名称
+
+我 O
+要 O
+去 O
+天 B-inform-终点名称
+竺 I-inform-终点名称
+路 I-inform-终点名称
+同 I-inform-终点名称
+兴 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+导 O
+航 O
+
+去 O
+同 B-inform-终点名称
+信 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+碧 O
+导 B-inform-对象
+航 I-inform-对象
+
+导 O
+航 O
+
+我 O
+要 O
+去 O
+兴 B-inform-终点名称
+业 I-inform-终点名称
+银 I-inform-终点名称
+行 I-inform-终点名称
+
+开 O
+佛 O
+路 O
+
+你 O
+柏 O
+路 O
+
+去 O
+了 O
+
+帮 O
+我 O
+谢 O
+谢 O
+
+谢 O
+谢 O
+你 O
+啦 O
+不 O
+去 O
+了 O
+
+n O
+u O
+l O
+l O
+
+谢 O
+谢 O
+你 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+
+济 B-inform-poi名称
+南 I-inform-poi名称
+趵 I-inform-poi名称
+突 I-inform-poi名称
+泉 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+石 B-inform-终点名称
+桥 I-inform-终点名称
+镇 I-inform-终点名称
+
+咱 O
+们 O
+要 O
+上 O
+有 O
+一 O
+怎 O
+么 O
+办 O
+哈 O
+哈 O
+哈 O
+哈 O
+
+晚 O
+上 O
+
+n O
+u O
+l O
+l O
+
+因 O
+为 O
+这 O
+个 O
+店 O
+
+到 O
+徐 O
+庄 O
+小 O
+时 O
+的 O
+外 O
+形 O
+
+二 O
+十 O
+个 O
+小 O
+时 O
+的 O
+快 O
+递 O
+点 O
+没 O
+有 O
+
+唉 O
+
+我 O
+都 O
+影 O
+视 O
+频 O
+道 O
+显 O
+示 O
+出 O
+来 O
+好 O
+这 O
+个 O
+
+来 O
+
+来 O
+吧 O
+
+不 O
+是 O
+登 O
+上 O
+这 O
+个 O
+可 O
+以 O
+转 O
+吗 O
+
+我 O
+去 O
+来 O
+关 O
+了 O
+吗 O
+
+关 B-inform-操作
+闭 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+杨 O
+铭 O
+科 O
+汽 O
+车 O
+用 O
+品 O
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+我 O
+要 O
+到 O
+上 O
+山 O
+下 O
+村 O
+
+不 O
+是 O
+六 O
+
+义 B-inform-poi名称
+乌 I-inform-poi名称
+市 I-inform-poi名称
+也 O
+好 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+高 B-inform-终点名称
+院 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+沈 B-inform-终点名称
+阳 I-inform-终点名称
+
+我 O
+要 O
+去 O
+二 B-inform-终点名称
+五 I-inform-终点名称
+省 I-inform-终点名称
+道 I-inform-终点名称
+
+我 O
+要 O
+去 O
+二 B-inform-终点名称
+二 I-inform-终点名称
+五 I-inform-终点名称
+省 I-inform-终点名称
+道 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+安 B-inform-终点名称
+和 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+我 O
+要 O
+去 O
+蓝 O
+田 O
+县 O
+
+我 O
+要 O
+去 O
+滦 B-inform-终点名称
+平 I-inform-终点名称
+县 I-inform-终点名称
+
+你 O
+和 O
+田 O
+南 B-inform-终点名称
+江 I-inform-终点名称
+燕 I-inform-终点名称
+
+关 O
+导 B-inform-对象
+航 I-inform-对象
+关 B-inform-终点名称
+中 I-inform-终点名称
+环 I-inform-终点名称
+线 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+碧 O
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+
+到 O
+晋 O
+江 O
+证 O
+办 O
+理 O
+处 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+哈 B-inform-终点名称
+尔 I-inform-终点名称
+滨 I-inform-终点名称
+市 I-inform-终点名称
+阿 I-inform-终点名称
+城 I-inform-终点名称
+区 I-inform-终点名称
+
+到 O
+利 B-inform-终点名称
+辛 I-inform-终点名称
+县 I-inform-终点名称
+
+去 O
+时 B-inform-终点名称
+代 I-inform-终点名称
+天 I-inform-终点名称
+悦 I-inform-终点名称
+
+我 O
+要 O
+去 O
+东 B-inform-终点名称
+港 I-inform-终点名称
+物 I-inform-终点名称
+流 I-inform-终点名称
+沁 I-inform-终点名称
+阳 I-inform-终点名称
+市 I-inform-终点名称
+中 I-inform-终点名称
+港 I-inform-终点名称
+物 I-inform-终点名称
+流 I-inform-终点名称
+
+现 O
+在 O
+去 O
+玩 O
+我 O
+要 O
+去 O
+
+即 B-inform-poi名称
+刻 I-inform-poi名称
+健 I-inform-poi名称
+身 I-inform-poi名称
+
+就 O
+几 O
+世 O
+纪 O
+轩 O
+
+我 O
+要 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+打 O
+开 O
+
+继 O
+续 O
+玩 O
+到 O
+体 O
+健 O
+身 O
+完 O
+成 O
+了 O
+
+我 O
+要 O
+去 O
+加 B-inform-终点名称
+油 I-inform-终点名称
+
+附 B-inform-请求类型
+近 I-inform-请求类型
+五 B-inform-poi目标
+金 I-inform-poi目标
+店 I-inform-poi目标
+
+到 O
+花 B-inform-终点名称
+园 I-inform-终点名称
+魔 I-inform-终点名称
+天 I-inform-终点名称
+轮 I-inform-终点名称
+
+公 O
+园 O
+道 O
+花 O
+园 O
+
+n O
+u O
+l O
+l O
+
+放 O
+个 O
+
+到 O
+到 O
+
+大 B-inform-poi名称
+道 I-inform-poi名称
+一 I-inform-poi名称
+号 I-inform-poi名称
+
+萝 O
+卜 O
+
+公 B-inform-poi名称
+园 I-inform-poi名称
+一 I-inform-poi名称
+九 I-inform-poi名称
+零 I-inform-poi名称
+三 I-inform-poi名称
+
+到 O
+公 B-inform-终点名称
+园 I-inform-终点名称
+一 I-inform-终点名称
+九 I-inform-终点名称
+零 I-inform-终点名称
+三 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+到 O
+爱 B-inform-终点名称
+琴 I-inform-终点名称
+海 I-inform-终点名称
+
+爱 B-inform-poi名称
+情 I-inform-poi名称
+海 I-inform-poi名称
+
+搜 B-inform-操作
+索 I-inform-操作
+灵 B-inform-poi名称
+石 I-inform-poi名称
+县 I-inform-poi名称
+
+取 B-inform-操作
+消 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+甘 O
+旭 O
+省 O
+信 O
+访 O
+办 O
+
+到 O
+济 O
+南 O
+市 O
+的 O
+Q O
+车 O
+在 O
+这 O
+个 O
+大 O
+街 O
+一 O
+点 O
+干 O
+这 O
+个 O
+的 O
+
+我 O
+要 O
+去 O
+嵩 B-inform-终点名称
+明 I-inform-终点名称
+县 I-inform-终点名称
+戚 O
+薇 O
+
+导 B-inform-操作
+航 I-inform-操作
+新 B-inform-终点名称
+津 I-inform-终点名称
+老 I-inform-终点名称
+君 I-inform-终点名称
+山 I-inform-终点名称
+
+泸 O
+州 O
+市 O
+政 O
+府 O
+
+我 O
+要 O
+去 O
+安 B-inform-终点名称
+徽 I-inform-终点名称
+明 I-inform-终点名称
+光 I-inform-终点名称
+
+要 O
+睡 O
+觉 O
+搜 B-inform-操作
+索 I-inform-操作
+难 B-inform-poi名称
+忘 I-inform-poi名称
+今 I-inform-poi名称
+宵 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+南 B-inform-终点名称
+昌 I-inform-终点名称
+濮 I-inform-终点名称
+阳 I-inform-终点名称
+服 I-inform-终点名称
+务 I-inform-终点名称
+
+我 O
+要 O
+到 O
+大 O
+鹏 B-inform-终点名称
+新 I-inform-终点名称
+区 I-inform-终点名称
+华 I-inform-终点名称
+强 I-inform-终点名称
+南 I-inform-终点名称
+路 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+人 B-inform-终点名称
+民 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+将 O
+开 O
+机 O
+在 O
+南 O
+沙 O
+将 O
+她 O
+公 O
+馆 O
+
+好 O
+久 O
+去 O
+机 B-inform-终点名称
+场 I-inform-终点名称
+
+最 O
+快 O
+的 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+是 O
+人 O
+民 O
+医 O
+院 O
+
+坐 O
+
+你 O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+虹 B-inform-poi名称
+梅 I-inform-poi名称
+南 I-inform-poi名称
+路 I-inform-poi名称
+春 I-inform-poi名称
+申 I-inform-poi名称
+路 I-inform-poi名称
+
+我 O
+想 O
+去 O
+西 B-inform-终点名称
+安 I-inform-终点名称
+铁 I-inform-终点名称
+路 I-inform-终点名称
+职 I-inform-终点名称
+业 I-inform-终点名称
+技 I-inform-终点名称
+术 I-inform-终点名称
+学 I-inform-终点名称
+院 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+贵 B-inform-终点名称
+州 I-inform-终点名称
+省 I-inform-终点名称
+黔 I-inform-终点名称
+南 I-inform-终点名称
+州 I-inform-终点名称
+瓮 I-inform-终点名称
+安 I-inform-终点名称
+县 I-inform-终点名称
+永 I-inform-终点名称
+和 I-inform-终点名称
+镇 I-inform-终点名称
+人 I-inform-终点名称
+民 I-inform-终点名称
+政 I-inform-终点名称
+府 I-inform-终点名称
+
+到 O
+青 B-inform-终点名称
+海 I-inform-终点名称
+西 I-inform-终点名称
+宁 I-inform-终点名称
+
+你 O
+好 O
+个 O
+
+去 O
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+德 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+陵 I-inform-终点名称
+城 I-inform-终点名称
+区 I-inform-终点名称
+郑 I-inform-终点名称
+家 I-inform-终点名称
+寨 I-inform-终点名称
+新 I-inform-终点名称
+城 I-inform-终点名称
+社 I-inform-终点名称
+区 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+建 B-inform-终点名称
+设 I-inform-终点名称
+集 I-inform-终点名称
+团 I-inform-终点名称
+大 I-inform-终点名称
+厦 I-inform-终点名称
+
+去 O
+内 B-inform-终点名称
+蒙 I-inform-终点名称
+古 I-inform-终点名称
+乌 I-inform-终点名称
+兰 I-inform-终点名称
+察 I-inform-终点名称
+布 I-inform-终点名称
+市 I-inform-终点名称
+集 I-inform-终点名称
+宁 I-inform-终点名称
+区 I-inform-终点名称
+
+我 O
+要 O
+去 O
+康 B-inform-终点名称
+达 I-inform-终点名称
+路 I-inform-终点名称
+五 I-inform-终点名称
+百 I-inform-终点名称
+零 I-inform-终点名称
+八 I-inform-终点名称
+弄 I-inform-终点名称
+三 I-inform-终点名称
+十 I-inform-终点名称
+五 I-inform-终点名称
+号 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+附 O
+近 O
+哪 O
+错 O
+
+我 O
+要 O
+去 O
+那 O
+个 O
+开 B-inform-终点名称
+发 I-inform-终点名称
+区 I-inform-终点名称
+广 I-inform-终点名称
+州 I-inform-终点名称
+路 I-inform-终点名称
+上 I-inform-终点名称
+坡 I-inform-终点名称
+右 I-inform-终点名称
+手 I-inform-终点名称
+第 I-inform-终点名称
+一 I-inform-终点名称
+个 I-inform-终点名称
+大 I-inform-终点名称
+院 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+我 O
+要 O
+去 O
+兰 B-inform-终点名称
+州 I-inform-终点名称
+新 I-inform-终点名称
+区 I-inform-终点名称
+兰 I-inform-终点名称
+石 I-inform-终点名称
+家 I-inform-终点名称
+属 I-inform-终点名称
+院 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+来 B-inform-终点名称
+宾 I-inform-终点名称
+镇 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+加 B-inform-poi目标
+油 I-inform-poi目标
+站 I-inform-poi目标
+
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+福 B-inform-poi目标
+安 I-inform-poi目标
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+福 B-inform-poi名称
+飞 I-inform-poi名称
+南 I-inform-poi名称
+路 I-inform-poi名称
+
+我 O
+要 O
+
+不 O
+要 O
+
+我 O
+
+江 B-inform-poi名称
+津 I-inform-poi名称
+区 I-inform-poi名称
+检 I-inform-poi名称
+察 I-inform-poi名称
+院 I-inform-poi名称
+
+现 O
+在 O
+到 O
+阿 B-inform-终点名称
+勒 I-inform-终点名称
+斯 I-inform-终点名称
+坦 I-inform-终点名称
+工 O
+厂 O
+有 O
+多 O
+远 O
+
+取 B-inform-操作
+消 I-inform-操作
+取 O
+消 O
+
+拨 O
+拨 O
+部 O
+去 O
+了 O
+再 O
+见 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+三 B-inform-终点名称
+铺 I-inform-终点名称
+
+我 O
+要 O
+去 O
+皖 B-inform-终点名称
+西 I-inform-终点名称
+北 I-inform-终点名称
+商 I-inform-终点名称
+贸 I-inform-终点名称
+城 I-inform-终点名称
+
+不 B-inform-路线偏好
+走 I-inform-路线偏好
+高 I-inform-路线偏好
+速 I-inform-路线偏好
+
+躲 B-inform-路线偏好
+避 I-inform-路线偏好
+拥 I-inform-路线偏好
+堵 I-inform-路线偏好
+
+去 O
+安 B-inform-终点名称
+科 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+儋 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+北 B-inform-poi名称
+京 I-inform-poi名称
+南 I-inform-poi名称
+站 I-inform-poi名称
+
+一 B-inform-序列号
+
+我 O
+想 O
+去 O
+安 B-inform-终点名称
+益 I-inform-终点名称
+街 I-inform-终点名称
+益 I-inform-终点名称
+康 I-inform-终点名称
+园 I-inform-终点名称
+小 I-inform-终点名称
+区 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+至 O
+芳 B-inform-终点名称
+草 I-inform-终点名称
+湖 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+滇 B-inform-poi名称
+池 I-inform-poi名称
+路 I-inform-poi名称
+七 I-inform-poi名称
+百 I-inform-poi名称
+六 I-inform-poi名称
+十 I-inform-poi名称
+八 I-inform-poi名称
+号 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+马 B-inform-终点名称
+尔 I-inform-终点名称
+康 I-inform-终点名称
+
+去 O
+学 B-inform-终点名称
+府 I-inform-终点名称
+大 I-inform-终点名称
+道 I-inform-终点名称
+
+去 O
+三 O
+会 O
+员 O
+商 O
+店 O
+
+附 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+线 B-inform-poi目标
+缆 I-inform-poi目标
+专 I-inform-poi目标
+卖 I-inform-poi目标
+店 I-inform-poi目标
+
+去 O
+最 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+加 B-inform-终点目标
+油 I-inform-终点目标
+站 I-inform-终点目标
+
+听 O
+一 O
+个 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+
+去 O
+三 B-inform-终点名称
+翠 I-inform-终点名称
+谷 I-inform-终点名称
+花 I-inform-终点名称
+苑 I-inform-终点名称
+
+我 O
+想 O
+去 O
+长 B-inform-终点名称
+流 I-inform-终点名称
+水 I-inform-终点名称
+
+我 O
+要 O
+到 O
+天 B-inform-终点名称
+门 I-inform-终点名称
+市 I-inform-终点名称
+人 I-inform-终点名称
+信 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+我 O
+要 O
+到 O
+天 B-inform-终点名称
+门 I-inform-终点名称
+市 I-inform-终点名称
+仁 I-inform-终点名称
+信 I-inform-终点名称
+国 I-inform-终点名称
+际 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+确 O
+定 O
+
+我 O
+导 B-inform-操作
+航 I-inform-操作
+去 O
+广 O
+达 O
+路 O
+日 O
+百 O
+二 O
+十 O
+二 O
+号 O
+
+取 B-inform-操作
+消 I-inform-操作
+
+我 O
+导 B-inform-操作
+航 I-inform-操作
+去 O
+广 B-inform-终点名称
+达 I-inform-终点名称
+路 I-inform-终点名称
+二 I-inform-终点名称
+百 I-inform-终点名称
+二 I-inform-终点名称
+十 I-inform-终点名称
+二 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+打 O
+开 O
+导 B-inform-对象
+航 I-inform-对象
+导 O
+和 B-inform-终点名称
+平 I-inform-终点名称
+村 I-inform-终点名称
+
+我 O
+去 O
+了 O
+
+听 O
+说 O
+
+不 O
+播 B-deny-操作
+放 I-deny-操作
+
+萝 O
+卜 O
+回 O
+国 B-inform-终点名称
+贸 I-inform-终点名称
+
+带 O
+我 O
+去 O
+梦 B-inform-终点名称
+回 I-inform-终点名称
+南 I-inform-终点名称
+国 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+旧 B-inform-终点名称
+货 I-inform-终点名称
+市 I-inform-终点名称
+场 I-inform-终点名称
+
+爱 O
+情 O
+吗 O
+
+我 O
+要 O
+搜 O
+一 O
+首 O
+
+小 O
+蓝 O
+你 O
+好 O
+
+啊 O
+
+打 O
+电 O
+话 O
+电 O
+商 O
+哪 O
+
+n O
+u O
+l O
+l O
+
+在 O
+十 O
+一 O
+号 O
+了 O
+吗 O
+
+我 O
+想 O
+
+导 O
+航 O
+
+去 O
+上 B-inform-终点名称
+河 I-inform-终点名称
+县 I-inform-终点名称
+沿 I-inform-终点名称
+河 I-inform-终点名称
+路 I-inform-终点名称
+
+这 O
+周 O
+四 O
+州 O
+的 O
+S O
+的 O
+银 O
+行 O
+
+香 B-inform-poi名称
+樟 I-inform-poi名称
+路 I-inform-poi名称
+
+去 O
+产 B-inform-终点名称
+业 I-inform-终点名称
+集 I-inform-终点名称
+聚 I-inform-终点名称
+区 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+桐 B-inform-终点名称
+庐 I-inform-终点名称
+县 I-inform-终点名称
+分 I-inform-终点名称
+水 I-inform-终点名称
+镇 I-inform-终点名称
+
+我 O
+要 O
+去 O
+浦 B-inform-终点名称
+东 I-inform-终点名称
+新 I-inform-终点名称
+区 I-inform-终点名称
+秀 I-inform-终点名称
+浦 I-inform-终点名称
+路 I-inform-终点名称
+八 I-inform-终点名称
+百 I-inform-终点名称
+八 I-inform-终点名称
+十 I-inform-终点名称
+六 I-inform-终点名称
+号 I-inform-终点名称
+
+我 O
+要 O
+去 O
+遵 B-inform-终点名称
+义 I-inform-终点名称
+忠 I-inform-终点名称
+庄 I-inform-终点名称
+
+帮 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+赣 B-inform-终点名称
+州 I-inform-终点名称
+市 I-inform-终点名称
+国 I-inform-终点名称
+光 I-inform-终点名称
+超 I-inform-终点名称
+市 I-inform-终点名称
+
+我 O
+在 O
+哪 O
+里 O
+
+这 O
+是 O
+哪 O
+个 O
+地 O
+方 O
+
+我 O
+要 O
+去 O
+国 B-inform-终点名称
+际 I-inform-终点名称
+会 I-inform-终点名称
+展 I-inform-终点名称
+中 I-inform-终点名称
+心 I-inform-终点名称
+
+请 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+大 B-inform-终点名称
+食 I-inform-终点名称
+堂 I-inform-终点名称
+
+淳 B-inform-poi名称
+化 I-inform-poi名称
+县 I-inform-poi名称
+
+n O
+u O
+l O
+l O
+
+去 O
+淳 B-inform-终点名称
+化 I-inform-终点名称
+县 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+导 O
+航 O
+去 O
+兰 B-inform-终点名称
+州 I-inform-终点名称
+东 I-inform-终点名称
+出 I-inform-终点名称
+口 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+听 O
+停 B-inform-操作
+止 I-inform-操作
+刚 O
+才 O
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+肇 B-inform-终点名称
+庆 I-inform-终点名称
+车 I-inform-终点名称
+兄 I-inform-终点名称
+弟 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+关 B-inform-操作
+闭 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+
+野 B-inform-poi名称
+人 I-inform-poi名称
+烧 I-inform-poi名称
+烤 I-inform-poi名称
+
+搜 B-inform-操作
+一 O
+宾 B-inform-poi名称
+馆 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+临 B-inform-终点名称
+江 I-inform-终点名称
+大 I-inform-终点名称
+道 I-inform-终点名称
+
+去 O
+北 O
+戴 O
+河 O
+高 O
+速 O
+出 O
+高 O
+速 O
+路 O
+口 O
+
+都 O
+不 O
+去 O
+
+我 O
+要 O
+去 O
+高 B-inform-终点名称
+陵 I-inform-终点名称
+区 I-inform-终点名称
+
+宏 B-inform-poi名称
+轩 I-inform-poi名称
+酒 I-inform-poi名称
+店 I-inform-poi名称
+
+你 O
+是 O
+个 O
+瓜 O
+B O
+
+宏 B-inform-poi名称
+轩 I-inform-poi名称
+酒 I-inform-poi名称
+店 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+百 B-inform-终点名称
+大 I-inform-终点名称
+
+请 O
+
+我 O
+要 O
+去 O
+内 B-inform-终点名称
+丘 I-inform-终点名称
+县 I-inform-终点名称
+
+去 O
+西 B-inform-终点名称
+南 I-inform-终点名称
+岗 I-inform-终点名称
+村 I-inform-终点名称
+
+我 O
+要 O
+去 O
+西 O
+南 O
+广 O
+村 O
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+红 B-inform-终点名称
+会 I-inform-终点名称
+医 I-inform-终点名称
+院 I-inform-终点名称
+
+一 O
+个 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+繁 B-inform-终点名称
+荣 I-inform-终点名称
+路 I-inform-终点名称
+和 I-inform-终点名称
+南 I-inform-终点名称
+湖 I-inform-终点名称
+中 I-inform-终点名称
+街 I-inform-终点名称
+
+给 O
+我 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+大 B-inform-终点名称
+岭 I-inform-终点名称
+山 I-inform-终点名称
+八 I-inform-终点名称
+方 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+
+我 O
+要 O
+去 O
+大 B-inform-终点名称
+洼 I-inform-终点名称
+高 I-inform-终点名称
+中 I-inform-终点名称
+北 I-inform-终点名称
+门 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-对象
+航 I-inform-对象
+退 B-inform-操作
+出 I-inform-操作
+来 O
+
+我 O
+想 O
+去 O
+美 B-inform-终点名称
+溪 I-inform-终点名称
+
+我 O
+想 O
+去 O
+硖 B-inform-终点名称
+石 I-inform-终点名称
+镇 I-inform-终点名称
+
+去 O
+往 O
+方 B-inform-终点名称
+升 I-inform-终点名称
+汽 I-inform-终点名称
+贸 I-inform-终点名称
+
+看 O
+杨 O
+峰 O
+汽 O
+贸 O
+一 O
+日 O
+春 O
+泽 O
+大 O
+门 O
+的 O
+这 O
+个 O
+是 O
+网 O
+售 O
+后 O
+
+一 B-inform-序列号
+
+在 O
+哪 O
+里 O
+
+我 O
+现 O
+在 O
+在 O
+哪 O
+里 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+去 O
+到 O
+导 B-deny-对象
+航 I-deny-对象
+错 O
+了 O
+
+附 B-inform-请求类型
+近 I-inform-请求类型
+的 O
+停 B-inform-poi目标
+车 I-inform-poi目标
+场 I-inform-poi目标
+
+高 B-inform-poi名称
+新 I-inform-poi名称
+区 I-inform-poi名称
+管 I-inform-poi名称
+委 I-inform-poi名称
+会 I-inform-poi名称
+
+我 O
+要 O
+去 O
+长 B-inform-终点名称
+春 I-inform-终点名称
+高 I-inform-终点名称
+新 I-inform-终点名称
+区 I-inform-终点名称
+管 I-inform-终点名称
+委 I-inform-终点名称
+会 I-inform-终点名称
+
+我 O
+要 O
+去 O
+温 B-inform-终点名称
+莎 I-inform-终点名称
+小 I-inform-终点名称
+镇 I-inform-终点名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+桥 B-inform-终点名称
+南 I-inform-终点名称
+醉 I-inform-终点名称
+八 I-inform-终点名称
+仙 I-inform-终点名称
+酒 I-inform-终点名称
+店 I-inform-终点名称
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+唐 B-inform-终点名称
+山 I-inform-终点名称
+
+那 O
+叫 O
+什 O
+么 O
+导 B-inform-操作
+航 I-inform-操作
+到 O
+喜 O
+盈 O
+门 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+新 B-inform-终点名称
+化 I-inform-终点名称
+县 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+个 B-inform-poi名称
+旧 I-inform-poi名称
+
+到 O
+灵 B-inform-终点名称
+寿 I-inform-终点名称
+县 I-inform-终点名称
+邵 I-inform-终点名称
+三 I-inform-终点名称
+际 I-inform-终点名称
+乡 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+到 O
+灵 O
+寿 O
+县 O
+胜 O
+三 O
+G O
+乡 O
+河 O
+曲 O
+村 O
+
+到 O
+我 O
+那 O
+里 O
+根 O
+我 O
+以 O
+后 O
+你 O
+要 O
+到 O
+那 O
+个 O
+厦 O
+门 O
+世 O
+界 O
+
+小 O
+说 O
+目 B-inform-对象
+的 I-inform-对象
+地 I-inform-对象
+
+关 B-inform-poi名称
+东 I-inform-poi名称
+文 I-inform-poi名称
+化 I-inform-poi名称
+园 I-inform-poi名称
+
+去 O
+柘 O
+林 O
+镇 O
+海 O
+丰 O
+家 O
+园 O
+
+到 O
+江 B-inform-终点名称
+山 I-inform-终点名称
+市 I-inform-终点名称
+塘 I-inform-终点名称
+石 I-inform-终点名称
+镇 I-inform-终点名称
+
+到 O
+郑 O
+州 O
+日 O
+七 O
+区 O
+侯 O
+寨 O
+乡 O
+肖 O
+如 O
+何 O
+渔 O
+湾 O
+生 O
+态 O
+园 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+我 O
+要 O
+去 O
+国 B-inform-终点名称
+基 I-inform-终点名称
+路 I-inform-终点名称
+河 I-inform-终点名称
+南 I-inform-终点名称
+有 I-inform-终点名称
+线 I-inform-终点名称
+营 I-inform-终点名称
+业 I-inform-终点名称
+厅 I-inform-终点名称
+
+我 O
+要 O
+吃 B-inform-poi名称
+饭 I-inform-poi名称
+
+去 O
+乌 B-inform-终点名称
+兰 I-inform-终点名称
+察 I-inform-终点名称
+布 I-inform-终点名称
+化 I-inform-终点名称
+德 I-inform-终点名称
+县 I-inform-终点名称
+
+去 O
+公 O
+司 O
+是 O
+甘 O
+河 O
+子 O
+镇 O
+
+都 O
+不 O
+是 O
+
+返 B-inform-操作
+回 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+
+洗 B-inform-poi名称
+浴 I-inform-poi名称
+中 I-inform-poi名称
+心 I-inform-poi名称
+
+我 O
+要 O
+去 O
+安 B-inform-终点名称
+徽 I-inform-终点名称
+阜 I-inform-终点名称
+阳 I-inform-终点名称
+
+导 B-inform-对象
+航 I-inform-对象
+
+连 O
+接 O
+谁 O
+看 O
+
+给 O
+我 O
+看 O
+的 O
+导 O
+航 O
+去 O
+白 O
+话 O
+
+你 O
+叫 O
+说 O
+情 O
+者 O
+他 O
+就 O
+可 O
+以 O
+吧 O
+
+继 B-inform-操作
+续 I-inform-操作
+导 I-inform-操作
+航 I-inform-操作
+
+n O
+u O
+l O
+l O
+
+搞 O
+错 O
+了 O
+渭 B-inform-poi名称
+南 I-inform-poi名称
+市 I-inform-poi名称
+人 I-inform-poi名称
+民 I-inform-poi名称
+政 I-inform-poi名称
+府 I-inform-poi名称
+
+为 O
+你 O
+好 O
+
+我 O
+要 O
+去 O
+会 O
+场 O
+
+我 O
+以 O
+为 O
+是 O
+我 O
+没 O
+看 O
+目 O
+的 O
+地 O
+好 O
+的 O
+好 O
+的 O
+好 O
+的 O
+
+人 O
+行 O
+天 O
+桥 O
+不 O
+
+你 O
+等 O
+上 O
+半 O
+分 O
+钟 O
+对 O
+面 O
+有 O
+一 O
+个 O
+七 O
+十 O
+七 O
+十 O
+四 O
+路 O
+是 O
+吧 O
+
+走 O
+一 O
+点 O
+好 O
+吗 O
+
+为 O
+
+现 O
+在 O
+一 O
+一 O
+五 O
+来 O
+了 O
+一 O
+五 O
+公 O
+交 O
+我 O
+就 O
+在 O
+他 O
+前 O
+面 O
+了 O
+我 O
+在 O
+这 O
+掉 O
+头 O
+
+看 O
+见 O
+你 O
+了 O
+我 O
+在 O
+你 O
+前 O
+面 O
+对 O
+对 O
+对 O
+
+切 O
+
+导 O
+航 O
+到 O
+
+对 O
+
+我 O
+要 O
+去 O
+东 B-inform-终点名称
+营 I-inform-终点名称
+
+回 O
+家 B-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+连 O
+丽 O
+
+南 B-inform-poi名称
+京 I-inform-poi名称
+
+去 O
+河 B-inform-终点名称
+南 I-inform-终点名称
+省 I-inform-终点名称
+桐 I-inform-终点名称
+柏 I-inform-终点名称
+县 I-inform-终点名称
+
+去 O
+京 B-inform-终点名称
+广 I-inform-终点名称
+路 I-inform-终点名称
+长 I-inform-终点名称
+城 I-inform-终点名称
+宾 I-inform-终点名称
+馆 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+
+大 B-inform-poi名称
+董 I-inform-poi名称
+王 I-inform-poi名称
+府 I-inform-poi名称
+井 I-inform-poi名称
+店 I-inform-poi名称
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+n O
+u O
+l O
+l O
+
+看 O
+一 O
+下 O
+附 B-inform-请求类型
+近 I-inform-请求类型
+有 O
+桑 B-inform-poi目标
+拿 I-inform-poi目标
+室 I-inform-poi目标
+吗 O
+
+这 O
+是 O
+哪 O
+里 O
+啊 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+华 B-inform-终点名称
+西 I-inform-终点名称
+
+黑 B-inform-poi名称
+龙 I-inform-poi名称
+江 I-inform-poi名称
+省 I-inform-poi名称
+海 I-inform-poi名称
+伦 I-inform-poi名称
+市 I-inform-poi名称
+政 I-inform-poi名称
+府 I-inform-poi名称
+
+导 O
+航 O
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+五 O
+路 O
+居 O
+红 O
+木 O
+家 O
+具 O
+行 O
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+马 B-inform-终点名称
+德 I-inform-终点名称
+里 I-inform-终点名称
+春 I-inform-终点名称
+天 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+白 B-inform-终点名称
+佛 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+栖 B-inform-poi名称
+霞 I-inform-poi名称
+北 I-inform-poi名称
+收 I-inform-poi名称
+费 I-inform-poi名称
+站 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+昌 B-inform-终点名称
+隆 I-inform-终点名称
+镇 I-inform-终点名称
+
+看 O
+电 O
+影 O
+
+放 O
+
+n O
+u O
+l O
+l O
+
+也 O
+许 O
+没 O
+什 O
+么 O
+
+退 B-inform-操作
+出 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+到 O
+凯 B-inform-终点名称
+德 I-inform-终点名称
+华 I-inform-终点名称
+
+去 O
+大 B-inform-终点名称
+明 I-inform-终点名称
+湖 I-inform-终点名称
+北 I-inform-终点名称
+门 I-inform-终点名称
+
+我 O
+要 O
+到 O
+宜 B-inform-终点名称
+昌 I-inform-终点名称
+市 I-inform-终点名称
+五 I-inform-终点名称
+一 I-inform-终点名称
+广 I-inform-终点名称
+场 I-inform-终点名称
+
+去 O
+桦 B-inform-终点名称
+南 I-inform-终点名称
+县 I-inform-终点名称
+
+去 O
+泌 B-inform-终点名称
+阳 I-inform-终点名称
+县 I-inform-终点名称
+交 I-inform-终点名称
+警 I-inform-终点名称
+大 I-inform-终点名称
+队 I-inform-终点名称
+
+一 O
+个 O
+
+第 B-inform-序列号
+一 I-inform-序列号
+个 I-inform-序列号
+
+我 O
+想 O
+去 O
+清 B-inform-终点名称
+蒙 I-inform-终点名称
+开 I-inform-终点名称
+发 I-inform-终点名称
+区 I-inform-终点名称
+智 I-inform-终点名称
+泰 I-inform-终点名称
+路 I-inform-终点名称
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+都 B-inform-终点名称
+匀 I-inform-终点名称
+
+疾 O
+控 O
+
+到 O
+长 B-inform-终点名称
+春 I-inform-终点名称
+火 I-inform-终点名称
+车 I-inform-终点名称
+站 I-inform-终点名称
+多 O
+少 O
+公 O
+里 O
+
+打 B-inform-操作
+开 I-inform-操作
+去 O
+兰 B-inform-终点名称
+州 I-inform-终点名称
+的 O
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+去 O
+黄 B-inform-终点名称
+江 I-inform-终点名称
+田 I-inform-终点名称
+心 I-inform-终点名称
+市 I-inform-终点名称
+场 I-inform-终点名称
+
+我 O
+去 O
+槐 B-inform-终点名称
+岭 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+导 B-inform-操作
+航 I-inform-操作
+
+临 O
+潼 O
+市 O
+一 O
+七 O
+医 O
+院 O
+
+临 O
+潼 O
+四 O
+一 O
+七 O
+医 O
+院 O
+
+四 O
+一 O
+七 O
+四 O
+一 O
+七 O
+医 O
+院 O
+
+n O
+u O
+l O
+l O
+
+临 B-inform-poi名称
+潼 I-inform-poi名称
+四 I-inform-poi名称
+一 I-inform-poi名称
+七 I-inform-poi名称
+医 I-inform-poi名称
+院 I-inform-poi名称
+
+导 B-inform-操作
+航 I-inform-操作
+
+佛 B-inform-poi名称
+山 I-inform-poi名称
+禅 I-inform-poi名称
+城 I-inform-poi名称
+区 I-inform-poi名称
+田 I-inform-poi名称
+边 I-inform-poi名称
+童 I-inform-poi名称
+服 I-inform-poi名称
+城 I-inform-poi名称
+
+确 O
+定 O
+
+导 B-inform-操作
+航 I-inform-操作
+到 O
+翠 B-inform-终点名称
+屏 I-inform-终点名称
+湾 I-inform-终点名称
+花 I-inform-终点名称
+园 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+关 B-inform-操作
+闭 I-inform-操作
+导 B-inform-对象
+航 I-inform-对象
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+
+在 O
+哪 O
+里 O
+
+我 O
+饿 O
+了 O
+
+我 O
+要 O
+去 O
+小 B-inform-终点名称
+山 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+去 O
+重 B-inform-终点名称
+庆 I-inform-终点名称
+北 I-inform-终点名称
+站 I-inform-终点名称
+
+n O
+u O
+l O
+l O
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+导 B-inform-操作
+航 I-inform-操作
+
+导 B-inform-操作
+航 I-inform-操作
+
+南 B-inform-poi名称
+桥 I-inform-poi名称
+镇 I-inform-poi名称
+社 I-inform-poi名称
+会 I-inform-poi名称
+保 I-inform-poi名称
+障 I-inform-poi名称
+服 I-inform-poi名称
+务 I-inform-poi名称
+中 I-inform-poi名称
+心 I-inform-poi名称
+
+第 B-inform-序列号
+二 I-inform-序列号
+个 I-inform-序列号
+
+去 O
+正 B-inform-终点名称
+泰 I-inform-终点名称
+电 I-inform-终点名称
+器 I-inform-终点名称
+
